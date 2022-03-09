@@ -10,10 +10,10 @@ ESM-1b model to create the enzyme representations. It was shown that the ESM-1b 
 - tesnsorlow
 - jupyter
 - pandas
-- scikit-learn
+- torch
+- numpy
 - rdkit
-- zeep
-- matplotlib
+- fair-esm
 - py-xgboost
 
 The listed packaged can be installed using conda and anaconda:
