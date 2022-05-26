@@ -17,14 +17,14 @@ Alternatively, you can use InChI strings and SMILES strings as substrate represe
 ## Requirements
 
 - python 3.7
-- tensorflow
+- tensorflow 2.3.1
 - jupyter
-- pandas
-- torch
-- numpy
-- rdkit
-- fair-esm
-- py-xgboost
+- pandas 1.1.3
+- torch 1.7.1
+- numpy 
+- rdkit 2020.09.1
+- fair-esm 0.3.1
+- py-xgboost 1.3.1
 
 The listed packaged can be installed using conda and anaconda:
 
