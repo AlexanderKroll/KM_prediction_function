@@ -31,9 +31,9 @@ The listed packaged can be installed using conda and anaconda:
 ```bash
 pip install torch
 pip install numpy
-pip install xgboost
 pip install tensorflow
 pip install fair-esm
+conda install -c conda-forge py-xgboost=1.3.3
 conda install -c rdkit rdkit
 ```
 
