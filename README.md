@@ -14,6 +14,9 @@ If you wish to use KEGG Compound IDs as inputs for the substrates, you need to u
 
 Alternatively, you can use InChI strings and SMILES strings as substrate representations.
 
+## Predicting Km values for BiGG genome-scale metabolic network
+We added two jupyter notebookes in the folder "code" ("01 BiGG - ..." and "02 BiGG - ...") that contain code to calcualte KM predictions for genome-scale metabolic netowrks.
+
 ## Requirements
 
 - python 3.7
