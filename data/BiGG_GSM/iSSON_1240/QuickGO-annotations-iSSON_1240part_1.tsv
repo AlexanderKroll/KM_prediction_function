@@ -1,0 +1,1122 @@
+﻿GENE PRODUCT DB	GENE PRODUCT ID	SYMBOL	QUALIFIER	GO TERM	GO NAME	ECO ID	GO EVIDENCE CODE	REFERENCE	WITH/FROM	TAXON ID	ASSIGNED BY	ANNOTATION EXTENSION	GO ASPECT
+UniProtKB	Q3YU43	hpcH	enables	GO:0018802	2,4-dihydroxyhept-2-ene-1,7-dioate aldolase activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR012689|InterPro:IPR023701	300269	InterPro		F
+UniProtKB	Q3YU43	hpcH	involved_in	GO:0010124	phenylacetate catabolic process	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR012689|InterPro:IPR023701	300269	InterPro		P
+UniProtKB	Q3YU43	hpcH	enables	GO:0003824	catalytic activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR005000|InterPro:IPR015813	300269	InterPro		F
+UniProtKB	Q3YU43	hpcH	involved_in	GO:0019439	aromatic compound catabolic process	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0058	300269	UniProt		P
+UniProtKB	Q3YU43	hpcH	enables	GO:0016829	lyase activity	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0456	300269	UniProt		F
+UniProtKB	Q3YU43	hpcH	enables	GO:0046872	metal ion binding	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0479	300269	UniProt		F
+UniProtKB	Q3YU43	hpcH	enables	GO:0043863	4-hydroxy-2-ketopimelate aldolase activity	ECO:0000256	IEA	GO_REF:0000116	RHEA:25788	300269	RHEA		F
+UniProtKB	Q3YU43	hpcH	involved_in	GO:0019439	aromatic compound catabolic process	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000101698	300269	UniProt		P
+UniProtKB	Q3YU43	hpcH	enables	GO:0016832	aldehyde-lyase activity	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000101698	300269	UniProt		F
+UniProtKB	Q3YU43	hpcH	enables	GO:0046872	metal ion binding	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000101698	300269	UniProt		F
+UniProtKB	Q3YU47	hpaB	involved_in	GO:0010124	phenylacetate catabolic process	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR012688	300269	InterPro		P
+UniProtKB	Q3YU47	hpaB	enables	GO:0016712	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR012688	300269	InterPro		F
+UniProtKB	Q3YU47	hpaB	enables	GO:0016627	oxidoreductase activity, acting on the CH-CH group of donors	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR009100|InterPro:IPR036250	300269	InterPro		F
+UniProtKB	Q3YU47	hpaB	enables	GO:0050660	flavin adenine dinucleotide binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR012688	300269	InterPro		F
+UniProtKB	Q3YU47	hpaB	enables	GO:0004497	monooxygenase activity	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0503	300269	UniProt		F
+UniProtKB	Q3YU48	hpaC	enables	GO:0016651	oxidoreductase activity, acting on NAD(P)H	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR011982	300269	InterPro		F
+UniProtKB	Q3YU48	hpaC	involved_in	GO:0042537	benzene-containing compound metabolic process	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR011982	300269	InterPro		P
+UniProtKB	Q3YU48	hpaC	enables	GO:0051287	NAD binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR011982	300269	InterPro		F
+UniProtKB	Q3YU48	hpaC	enables	GO:0010181	FMN binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR002563	300269	InterPro		F
+UniProtKB	Q3YU48	hpaC	involved_in	GO:0019439	aromatic compound catabolic process	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0058	300269	UniProt		P
+UniProtKB	Q3YU48	hpaC	enables	GO:0004497	monooxygenase activity	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0503	300269	UniProt		F
+UniProtKB	Q3YU48	hpaC	enables	GO:0036382	flavin reductase (NADH) activity	ECO:0000501	IEA	GO_REF:0000003	EC:1.5.1.36	300269	UniProt		F
+UniProtKB	Q3YU48	hpaC	enables	GO:0036382	flavin reductase (NADH) activity	ECO:0000256	IEA	GO_REF:0000116	RHEA:31303	300269	RHEA		F
+UniProtKB	Q3YUA6	pyrB	enables	GO:0016743	carboxyl- or carbamoyltransferase activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR006130|InterPro:IPR006131|InterPro:IPR006132|InterPro:IPR036901	300269	InterPro		F
+UniProtKB	Q3YUA6	pyrB	enables	GO:0004070	aspartate carbamoyltransferase activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR002082	300269	InterPro		F
+UniProtKB	Q3YUA6	pyrB	enables	GO:0016597	amino acid binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR006130|InterPro:IPR006131|InterPro:IPR036901	300269	InterPro		F
+UniProtKB	Q3YUA6	pyrB	involved_in	GO:0006520	cellular amino acid metabolic process	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR006130|InterPro:IPR006131|InterPro:IPR006132|InterPro:IPR036901	300269	InterPro		P
+UniProtKB	Q3YUA6	pyrB	involved_in	GO:0006207	'de novo' pyrimidine nucleobase biosynthetic process	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR002082	300269	InterPro		P
+UniProtKB	Q3YUA6	pyrB	enables	GO:0016740	transferase activity	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0808	300269	UniProt		F
+UniProtKB	Q3YUA6	pyrB	involved_in	GO:0006221	pyrimidine nucleotide biosynthetic process	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0665	300269	UniProt		P
+UniProtKB	Q3YUA6	pyrB	enables	GO:0004070	aspartate carbamoyltransferase activity	ECO:0000501	IEA	GO_REF:0000003	EC:2.1.3.2	300269	UniProt		F
+UniProtKB	Q3YUA6	pyrB	enables	GO:0004070	aspartate carbamoyltransferase activity	ECO:0000256	IEA	GO_REF:0000116	RHEA:20013	300269	RHEA		F
+UniProtKB	Q3YUA6	pyrB	enables	GO:0004070	aspartate carbamoyltransferase activity	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000038415	300269	UniProt		F
+UniProtKB	Q3YUA6	pyrB	involved_in	GO:0006221	pyrimidine nucleotide biosynthetic process	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000038415	300269	UniProt		P
+UniProtKB	Q3YUA6	pyrB	involved_in	GO:0044205	'de novo' UMP biosynthetic process	ECO:0000322	IEA	GO_REF:0000041	UniPathway:UPA00070	300269	UniProt		P
+UniProtKB	Q3YUI4	frdA	involved_in	GO:0022900	electron transport chain	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR014006	300269	InterPro		P
+UniProtKB	Q3YUI4	frdA	enables	GO:0016491	oxidoreductase activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR003952|InterPro:IPR005884|InterPro:IPR015939|InterPro:IPR037099	300269	InterPro		F
+UniProtKB	Q3YUI4	frdA	enables	GO:0016627	oxidoreductase activity, acting on the CH-CH group of donors	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR014006	300269	InterPro		F
+UniProtKB	Q3YUI4	frdA	involved_in	GO:0009061	anaerobic respiration	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR005884	300269	InterPro		P
+UniProtKB	Q3YUI4	frdA	enables	GO:0050660	flavin adenine dinucleotide binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR014006	300269	InterPro		F
+UniProtKB	Q3YUI4	frdA	enables	GO:0016491	oxidoreductase activity	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0560	300269	UniProt		F
+UniProtKB	Q3YUI4	frdA	enables	GO:0000166	nucleotide binding	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0547	300269	UniProt		F
+UniProtKB	Q3YUI4	frdA	located_in	GO:0005886	plasma membrane	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-1003	300269	UniProt		C
+UniProtKB	Q3YUI4	frdA	located_in	GO:0016020	membrane	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0472	300269	UniProt		C
+UniProtKB	Q3YUI4	frdA	enables	GO:0102040	fumarate reductase (menaquinone)	ECO:0000501	IEA	GO_REF:0000003	EC:1.3.5.4	300269	UniProt		F
+UniProtKB	Q3YUI4	frdA	located_in	GO:0005886	plasma membrane	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0037	300269	UniProt		C
+UniProtKB	Q3YUI4	frdA	located_in	GO:0016020	membrane	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0162	300269	UniProt		C
+UniProtKB	Q3YUI4	frdA	enables	GO:0102040	fumarate reductase (menaquinone)	ECO:0000256	IEA	GO_REF:0000116	RHEA:27834	300269	RHEA		F
+UniProtKB	Q3YUI4	frdA	involved_in	GO:0022900	electron transport chain	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000149754	300269	UniProt		P
+UniProtKB	Q3YUI4	frdA	enables	GO:0016627	oxidoreductase activity, acting on the CH-CH group of donors	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000149754	300269	UniProt		F
+UniProtKB	Q3YUI5	frdB	enables	GO:0016491	oxidoreductase activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR004489	300269	InterPro		F
+UniProtKB	Q3YUI5	frdB	involved_in	GO:0006099	tricarboxylic acid cycle	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR004489	300269	InterPro		P
+UniProtKB	Q3YUI5	frdB	enables	GO:0051536	iron-sulfur cluster binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001041|InterPro:IPR009051|InterPro:IPR025192|InterPro:IPR036010	300269	InterPro		F
+UniProtKB	Q3YUI5	frdB	enables	GO:0051537	2 iron, 2 sulfur cluster binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR006058	300269	InterPro		F
+UniProtKB	Q3YUI5	frdB	enables	GO:0009055	electron transfer activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001041|InterPro:IPR025192|InterPro:IPR036010	300269	InterPro		F
+UniProtKB	Q3YUI5	frdB	involved_in	GO:0006099	tricarboxylic acid cycle	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0816	300269	UniProt		P
+UniProtKB	Q3YUI5	frdB	enables	GO:0046872	metal ion binding	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0479	300269	UniProt		F
+UniProtKB	Q3YUI5	frdB	enables	GO:0051536	iron-sulfur cluster binding	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0411	300269	UniProt		F
+UniProtKB	Q3YUI5	frdB	enables	GO:0051537	2 iron, 2 sulfur cluster binding	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0001	300269	UniProt		F
+UniProtKB	Q3YUI5	frdB	enables	GO:0051538	3 iron, 4 sulfur cluster binding	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0003	300269	UniProt		F
+UniProtKB	Q3YUI5	frdB	enables	GO:0051539	4 iron, 4 sulfur cluster binding	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0004	300269	UniProt		F
+UniProtKB	Q3YUI5	frdB	enables	GO:0102040	fumarate reductase (menaquinone)	ECO:0000501	IEA	GO_REF:0000003	EC:1.3.5.4	300269	UniProt		F
+UniProtKB	Q3YUI5	frdB	enables	GO:0102040	fumarate reductase (menaquinone)	ECO:0000256	IEA	GO_REF:0000116	RHEA:27834	300269	RHEA		F
+UniProtKB	Q3YUI5	frdB	involved_in	GO:0022900	electron transport chain	ECO:0000366	IEA	GO_REF:0000108	GO:0009055	300269	GOC		P
+UniProtKB	Q3YUI6	frdC	located_in	GO:0016020	membrane	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR003510|InterPro:IPR034804	300269	InterPro		C
+UniProtKB	Q3YUI6	frdC	located_in	GO:0005886	plasma membrane	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0997	300269	UniProt		C
+UniProtKB	Q3YUI6	frdC	located_in	GO:0005886	plasma membrane	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-1003	300269	UniProt		C
+UniProtKB	Q3YUI6	frdC	located_in	GO:0016020	membrane	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0472	300269	UniProt		C
+UniProtKB	Q3YUI6	frdC	located_in	GO:0016021	integral component of membrane	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0812	300269	UniProt		C
+UniProtKB	Q3YUI6	frdC	located_in	GO:0005886	plasma membrane	ECO:0000322	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0037	300269	UniProt		C
+UniProtKB	Q3YUI6	frdC	located_in	GO:0005886	plasma membrane	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000065683	300269	UniProt		C
+UniProtKB	Q3YUI6	frdC	part_of	GO:0045284	plasma membrane fumarate reductase complex	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000065683	300269	UniProt		C
+UniProtKB	Q3YUI6	frdC	enables	GO:0000104	succinate dehydrogenase activity	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000065683	300269	UniProt		F
+UniProtKB	Q3YUR2	nrfD	located_in	GO:0005886	plasma membrane	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-1003	300269	UniProt		C
+UniProtKB	Q3YUR2	nrfD	located_in	GO:0016020	membrane	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0472	300269	UniProt		C
+UniProtKB	Q3YUR2	nrfD	located_in	GO:0016021	integral component of membrane	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0812	300269	UniProt		C
+UniProtKB	Q3YUR2	nrfD	located_in	GO:0016020	membrane	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0162	300269	UniProt		C
+UniProtKB	Q3YUR3	nrfC	enables	GO:0046872	metal ion binding	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0479	300269	UniProt		F
+UniProtKB	Q3YUR3	nrfC	enables	GO:0051536	iron-sulfur cluster binding	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0411	300269	UniProt		F
+UniProtKB	Q3YUZ2	thiF	enables	GO:0008641	ubiquitin-like modifier activating enzyme activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR035985	300269	InterPro		F
+UniProtKB	Q3YUZ4	thiG	involved_in	GO:0009228	thiamine biosynthetic process	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR008867	300269	InterPro		P
+UniProtKB	Q3YUZ4	thiG	enables	GO:0003824	catalytic activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR013785	300269	InterPro		F
+UniProtKB	Q3YUZ4	thiG	involved_in	GO:0009228	thiamine biosynthetic process	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0784	300269	UniProt		P
+UniProtKB	Q3YUZ4	thiG	located_in	GO:0005737	cytoplasm	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0963	300269	UniProt		C
+UniProtKB	Q3YUZ4	thiG	enables	GO:0016740	transferase activity	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0808	300269	UniProt		F
+UniProtKB	Q3YUZ4	thiG	located_in	GO:0005737	cytoplasm	ECO:0000322	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0086	300269	UniProt		C
+UniProtKB	Q3YUZ4	thiG	enables	GO:1990107	thiazole synthase activity	ECO:0000256	IEA	GO_REF:0000116	RHEA:26297	300269	RHEA		F
+UniProtKB	Q3YUZ4	thiG	involved_in	GO:0009228	thiamine biosynthetic process	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000088053	300269	UniProt		P
+UniProtKB	Q3YUZ4	thiG	located_in	GO:0005737	cytoplasm	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000088053	300269	UniProt		C
+UniProtKB	Q3YUZ4	thiG	enables	GO:0016783	sulfurtransferase activity	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000088053	300269	UniProt		F
+UniProtKB	Q3YUZ4	thiG	involved_in	GO:0009229	thiamine diphosphate biosynthetic process	ECO:0000322	IEA	GO_REF:0000041	UniPathway:UPA00060	300269	UniProt		P
+UniProtKB	Q3YUZ5	thiH	enables	GO:0005506	iron ion binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR012726	300269	InterPro		F
+UniProtKB	Q3YUZ5	thiH	involved_in	GO:0009228	thiamine biosynthetic process	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR012726	300269	InterPro		P
+UniProtKB	Q3YUZ5	thiH	enables	GO:0003824	catalytic activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR007197|InterPro:IPR013785	300269	InterPro		F
+UniProtKB	Q3YUZ5	thiH	enables	GO:0051536	iron-sulfur cluster binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR007197	300269	InterPro		F
+UniProtKB	Q3YUZ5	thiH	enables	GO:0051539	4 iron, 4 sulfur cluster binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR012726	300269	InterPro		F
+UniProtKB	Q3YUZ5	thiH	enables	GO:0046872	metal ion binding	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0479	300269	UniProt		F
+UniProtKB	Q3YUZ5	thiH	enables	GO:0051536	iron-sulfur cluster binding	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0411	300269	UniProt		F
+UniProtKB	Q3YV54	fpr	enables	GO:0016491	oxidoreductase activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001433|InterPro:IPR017927	300269	InterPro		F
+UniProtKB	Q3YV54	fpr	enables	GO:0004324	ferredoxin-NADP+ reductase activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR033892	300269	InterPro		F
+UniProtKB	Q3YV54	fpr	enables	GO:0000166	nucleotide binding	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0547	300269	UniProt		F
+UniProtKB	Q3YV54	fpr	enables	GO:0004324	ferredoxin-NADP+ reductase activity	ECO:0000501	IEA	GO_REF:0000003	EC:1.18.1.2	300269	UniProt		F
+UniProtKB	Q3YV54	fpr	enables	GO:0004324	ferredoxin-NADP+ reductase activity	ECO:0000256	IEA	GO_REF:0000116	RHEA:20125	300269	RHEA		F
+UniProtKB	Q3YVB2	dsbA	enables	GO:0016491	oxidoreductase activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001853	300269	InterPro		F
+UniProtKB	Q3YVB2	dsbA	enables	GO:0016853	isomerase activity	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0413	300269	UniProt		F
+UniProtKB	Q3YVB2	dsbA	located_in	GO:0042597	periplasmic space	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0574	300269	UniProt		C
+UniProtKB	Q3YVB2	dsbA	located_in	GO:0042597	periplasmic space	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0200	300269	UniProt		C
+UniProtKB	Q3YVG0	cyaY	involved_in	GO:0016226	iron-sulfur cluster assembly	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR002908|InterPro:IPR036524	300269	InterPro		P
+UniProtKB	Q3YVG0	cyaY	enables	GO:0008199	ferric iron binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR002908|InterPro:IPR036524	300269	InterPro		F
+UniProtKB	Q3YVG0	cyaY	enables	GO:0046872	metal ion binding	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0479	300269	UniProt		F
+UniProtKB	Q3YVG0	cyaY	enables	GO:0005506	iron ion binding	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000033437	300269	UniProt		F
+UniProtKB	Q3YVG0	cyaY	involved_in	GO:0016226	iron-sulfur cluster assembly	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000033437	300269	UniProt		P
+UniProtKB	Q3YVI3	trxA	involved_in	GO:0006662	glycerol ether metabolic process	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR005746	300269	InterPro		P
+UniProtKB	Q3YVI3	trxA	enables	GO:0015035	protein-disulfide reductase activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR005746	300269	InterPro		F
+UniProtKB	Q3YVN5	atpC	involved_in	GO:0015986	ATP synthesis coupled proton transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001469|InterPro:IPR020546	300269	InterPro		P
+UniProtKB	Q3YVN5	atpC	enables	GO:0046933	proton-transporting ATP synthase activity, rotational mechanism	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001469	300269	InterPro		F
+UniProtKB	Q3YVN5	atpC	part_of	GO:0045261	proton-transporting ATP synthase complex, catalytic core F(1)	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001469	300269	InterPro		C
+UniProtKB	Q3YVN5	atpC	involved_in	GO:0006811	ion transport	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0406	300269	UniProt		P
+UniProtKB	Q3YVN5	atpC	located_in	GO:0005886	plasma membrane	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-1003	300269	UniProt		C
+UniProtKB	Q3YVN5	atpC	located_in	GO:0005886	plasma membrane	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0997	300269	UniProt		C
+UniProtKB	Q3YVN5	atpC	located_in	GO:0016020	membrane	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0472	300269	UniProt		C
+UniProtKB	Q3YVN5	atpC	involved_in	GO:0006754	ATP biosynthetic process	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0066	300269	UniProt		P
+UniProtKB	Q3YVN5	atpC	part_of	GO:0045261	proton-transporting ATP synthase complex, catalytic core F(1)	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0139	300269	UniProt		C
+UniProtKB	Q3YVN5	atpC	located_in	GO:0005886	plasma membrane	ECO:0000322	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0037	300269	UniProt		C
+UniProtKB	Q3YVN5	atpC	enables	GO:0005524	ATP binding	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000037425	300269	UniProt		F
+UniProtKB	Q3YVN5	atpC	involved_in	GO:0015986	ATP synthesis coupled proton transport	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000037425	300269	UniProt		P
+UniProtKB	Q3YVN5	atpC	located_in	GO:0005886	plasma membrane	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000037425	300269	UniProt		C
+UniProtKB	Q3YVN5	atpC	enables	GO:0046933	proton-transporting ATP synthase activity, rotational mechanism	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000037425	300269	UniProt		F
+UniProtKB	Q3YVN9	atpH	involved_in	GO:0015986	ATP synthesis coupled proton transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR000711|InterPro:IPR020781	300269	InterPro		P
+UniProtKB	Q3YVN9	atpH	located_in	GO:0016020	membrane	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR020781	300269	InterPro		C
+UniProtKB	Q3YVN9	atpH	enables	GO:0046933	proton-transporting ATP synthase activity, rotational mechanism	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR000711|InterPro:IPR020781	300269	InterPro		F
+UniProtKB	Q3YVN9	atpH	involved_in	GO:0006811	ion transport	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0406	300269	UniProt		P
+UniProtKB	Q3YVN9	atpH	located_in	GO:0005886	plasma membrane	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0997	300269	UniProt		C
+UniProtKB	Q3YVN9	atpH	located_in	GO:0005886	plasma membrane	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-1003	300269	UniProt		C
+UniProtKB	Q3YVN9	atpH	located_in	GO:0016020	membrane	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0472	300269	UniProt		C
+UniProtKB	Q3YVN9	atpH	involved_in	GO:0006754	ATP biosynthetic process	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0066	300269	UniProt		P
+UniProtKB	Q3YVN9	atpH	part_of	GO:0045261	proton-transporting ATP synthase complex, catalytic core F(1)	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0139	300269	UniProt		C
+UniProtKB	Q3YVN9	atpH	located_in	GO:0005886	plasma membrane	ECO:0000322	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0037	300269	UniProt		C
+UniProtKB	Q3YVN9	atpH	involved_in	GO:0015986	ATP synthesis coupled proton transport	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000076402	300269	UniProt		P
+UniProtKB	Q3YVN9	atpH	located_in	GO:0005886	plasma membrane	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000076402	300269	UniProt		C
+UniProtKB	Q3YVN9	atpH	enables	GO:0046933	proton-transporting ATP synthase activity, rotational mechanism	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000076402	300269	UniProt		F
+UniProtKB	Q3YVP0	atpF	involved_in	GO:0015986	ATP synthesis coupled proton transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR002146|InterPro:IPR005864	300269	InterPro		P
+UniProtKB	Q3YVP0	atpF	enables	GO:0015078	proton transmembrane transporter activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR002146|InterPro:IPR005864	300269	InterPro		F
+UniProtKB	Q3YVP0	atpF	part_of	GO:0045263	proton-transporting ATP synthase complex, coupling factor F(o)	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR002146|InterPro:IPR005864	300269	InterPro		C
+UniProtKB	Q3YVP0	atpF	involved_in	GO:0006811	ion transport	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0406	300269	UniProt		P
+UniProtKB	Q3YVP0	atpF	located_in	GO:0005886	plasma membrane	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0997	300269	UniProt		C
+UniProtKB	Q3YVP0	atpF	located_in	GO:0005886	plasma membrane	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-1003	300269	UniProt		C
+UniProtKB	Q3YVP0	atpF	located_in	GO:0016020	membrane	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0472	300269	UniProt		C
+UniProtKB	Q3YVP0	atpF	located_in	GO:0016021	integral component of membrane	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0812	300269	UniProt		C
+UniProtKB	Q3YVP0	atpF	involved_in	GO:0006754	ATP biosynthetic process	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0066	300269	UniProt		P
+UniProtKB	Q3YVP0	atpF	part_of	GO:0045263	proton-transporting ATP synthase complex, coupling factor F(o)	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0138	300269	UniProt		C
+UniProtKB	Q3YVP0	atpF	located_in	GO:0005886	plasma membrane	ECO:0000322	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0037	300269	UniProt		C
+UniProtKB	Q3YVP0	atpF	involved_in	GO:0015986	ATP synthesis coupled proton transport	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000052451	300269	UniProt		P
+UniProtKB	Q3YVP0	atpF	located_in	GO:0005886	plasma membrane	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000052451	300269	UniProt		C
+UniProtKB	Q3YVP0	atpF	enables	GO:0046933	proton-transporting ATP synthase activity, rotational mechanism	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000052451	300269	UniProt		F
+UniProtKB	Q3YVP2	atpB	involved_in	GO:0015986	ATP synthesis coupled proton transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR000568	300269	InterPro		P
+UniProtKB	Q3YVP2	atpB	enables	GO:0015078	proton transmembrane transporter activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR000568	300269	InterPro		F
+UniProtKB	Q3YVP2	atpB	part_of	GO:0045263	proton-transporting ATP synthase complex, coupling factor F(o)	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR000568	300269	InterPro		C
+UniProtKB	Q3YVP2	atpB	involved_in	GO:0006811	ion transport	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0406	300269	UniProt		P
+UniProtKB	Q3YVP2	atpB	located_in	GO:0005886	plasma membrane	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0997	300269	UniProt		C
+UniProtKB	Q3YVP2	atpB	located_in	GO:0005886	plasma membrane	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-1003	300269	UniProt		C
+UniProtKB	Q3YVP2	atpB	located_in	GO:0016020	membrane	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0472	300269	UniProt		C
+UniProtKB	Q3YVP2	atpB	located_in	GO:0016021	integral component of membrane	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0812	300269	UniProt		C
+UniProtKB	Q3YVP2	atpB	involved_in	GO:0006754	ATP biosynthetic process	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0066	300269	UniProt		P
+UniProtKB	Q3YVP2	atpB	part_of	GO:0045263	proton-transporting ATP synthase complex, coupling factor F(o)	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0138	300269	UniProt		C
+UniProtKB	Q3YVP2	atpB	located_in	GO:0005886	plasma membrane	ECO:0000322	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0037	300269	UniProt		C
+UniProtKB	Q3YVP2	atpB	involved_in	GO:0015986	ATP synthesis coupled proton transport	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000050438	300269	UniProt		P
+UniProtKB	Q3YVP2	atpB	located_in	GO:0005886	plasma membrane	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000050438	300269	UniProt		C
+UniProtKB	Q3YVP2	atpB	enables	GO:0046933	proton-transporting ATP synthase activity, rotational mechanism	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000050438	300269	UniProt		F
+UniProtKB	Q3YVU1	glyQ	enables	GO:0005524	ATP binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR002310|InterPro:IPR006194	300269	InterPro		F
+UniProtKB	Q3YVU1	glyQ	located_in	GO:0005737	cytoplasm	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR002310|InterPro:IPR006194	300269	InterPro		C
+UniProtKB	Q3YVU1	glyQ	enables	GO:0004820	glycine-tRNA ligase activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR002310|InterPro:IPR006194	300269	InterPro		F
+UniProtKB	Q3YVU1	glyQ	enables	GO:0000166	nucleotide binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR002310|InterPro:IPR006194	300269	InterPro		F
+UniProtKB	Q3YVU1	glyQ	involved_in	GO:0006426	glycyl-tRNA aminoacylation	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR002310|InterPro:IPR006194	300269	InterPro		P
+UniProtKB	Q3YVU1	glyQ	enables	GO:0005524	ATP binding	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0067	300269	UniProt		F
+UniProtKB	Q3YVU1	glyQ	located_in	GO:0005737	cytoplasm	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0963	300269	UniProt		C
+UniProtKB	Q3YVU1	glyQ	enables	GO:0004812	aminoacyl-tRNA ligase activity	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0030	300269	UniProt		F
+UniProtKB	Q3YVU1	glyQ	enables	GO:0016874	ligase activity	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0436	300269	UniProt		F
+UniProtKB	Q3YVU1	glyQ	enables	GO:0000166	nucleotide binding	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0547	300269	UniProt		F
+UniProtKB	Q3YVU1	glyQ	involved_in	GO:0006412	translation	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0648	300269	UniProt		P
+UniProtKB	Q3YVU1	glyQ	enables	GO:0004820	glycine-tRNA ligase activity	ECO:0000501	IEA	GO_REF:0000003	EC:6.1.1.14	300269	UniProt		F
+UniProtKB	Q3YVU1	glyQ	located_in	GO:0005737	cytoplasm	ECO:0000322	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0086	300269	UniProt		C
+UniProtKB	Q3YVU1	glyQ	enables	GO:0004820	glycine-tRNA ligase activity	ECO:0000256	IEA	GO_REF:0000116	RHEA:16013	300269	RHEA		F
+UniProtKB	Q3YVU1	glyQ	enables	GO:0005524	ATP binding	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000034423	300269	UniProt		F
+UniProtKB	Q3YVU1	glyQ	located_in	GO:0005737	cytoplasm	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000034423	300269	UniProt		C
+UniProtKB	Q3YVU1	glyQ	enables	GO:0004820	glycine-tRNA ligase activity	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000034423	300269	UniProt		F
+UniProtKB	Q3YVU1	glyQ	involved_in	GO:0006426	glycyl-tRNA aminoacylation	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000034423	300269	UniProt		P
+UniProtKB	Q3YWD8	ilvN	involved_in	GO:0009082	branched-chain amino acid biosynthetic process	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR004789	300269	InterPro		P
+UniProtKB	Q3YWD8	ilvN	enables	GO:1990610	acetolactate synthase regulator activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR004789	300269	InterPro		F
+UniProtKB	Q3YWD8	ilvN	involved_in	GO:0009082	branched-chain amino acid biosynthetic process	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0100	300269	UniProt		P
+UniProtKB	Q3YWD8	ilvN	involved_in	GO:0008652	cellular amino acid biosynthetic process	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0028	300269	UniProt		P
+UniProtKB	Q3YWD8	ilvN	enables	GO:0003984	acetolactate synthase activity	ECO:0000501	IEA	GO_REF:0000003	EC:2.2.1.6	300269	UniProt		F
+UniProtKB	Q3YWD8	ilvN	enables	GO:0003984	acetolactate synthase activity	ECO:0000256	IEA	GO_REF:0000116	RHEA:25249	300269	RHEA		F
+UniProtKB	Q3YWD8	ilvN	involved_in	GO:0050790	regulation of catalytic activity	ECO:0000366	IEA	GO_REF:0000108	GO:1990610	300269	GOC		P
+UniProtKB	Q3YWD8	ilvN	involved_in	GO:0009099	valine biosynthetic process	ECO:0000322	IEA	GO_REF:0000041	UniPathway:UPA00049	300269	UniProt		P
+UniProtKB	Q3YWD8	ilvN	involved_in	GO:0009097	isoleucine biosynthetic process	ECO:0000322	IEA	GO_REF:0000041	UniPathway:UPA00047	300269	UniProt		P
+UniProtKB	Q3YWM8	mrcA	enables	GO:0008658	penicillin binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001460	300269	InterPro		F
+UniProtKB	Q3YWM8	mrcA	enables	GO:0008233	peptidase activity	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0645	300269	UniProt		F
+UniProtKB	Q3YWM8	mrcA	enables	GO:0016740	transferase activity	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0808	300269	UniProt		F
+UniProtKB	Q3YWM8	mrcA	enables	GO:0004180	carboxypeptidase activity	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0121	300269	UniProt		F
+UniProtKB	Q3YWM8	mrcA	enables	GO:0016757	transferase activity, transferring glycosyl groups	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0328	300269	UniProt		F
+UniProtKB	Q3YWM8	mrcA	enables	GO:0016787	hydrolase activity	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0378	300269	UniProt		F
+UniProtKB	Q3YWM8	mrcA	enables	GO:0003824	catalytic activity	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0511	300269	UniProt		F
+UniProtKB	Q3YWM8	mrcA	involved_in	GO:0046677	response to antibiotic	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0046	300269	UniProt		P
+UniProtKB	Q3YWM8	mrcA	located_in	GO:0016020	membrane	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0472	300269	UniProt		C
+UniProtKB	Q3YWM8	mrcA	involved_in	GO:0008152	metabolic process	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0511	300269	UniProt		P
+UniProtKB	Q3YWM8	mrcA	located_in	GO:0016021	integral component of membrane	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0812	300269	UniProt		C
+UniProtKB	Q3YWM8	mrcA	involved_in	GO:0006508	proteolysis	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0645	300269	UniProt		P
+UniProtKB	Q3YWM8	mrcA	enables	GO:0008955	peptidoglycan glycosyltransferase activity	ECO:0000501	IEA	GO_REF:0000003	EC:2.4.1.129	300269	UniProt		F
+UniProtKB	Q3YWM8	mrcA	enables	GO:0009002	serine-type D-Ala-D-Ala carboxypeptidase activity	ECO:0000501	IEA	GO_REF:0000003	EC:3.4.16.4	300269	UniProt		F
+UniProtKB	Q3YWM8	mrcA	located_in	GO:0005886	plasma membrane	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0037	300269	UniProt		C
+UniProtKB	Q3YWM8	mrcA	located_in	GO:0016020	membrane	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0162	300269	UniProt		C
+UniProtKB	Q3YWM8	mrcA	enables	GO:0008955	peptidoglycan glycosyltransferase activity	ECO:0000256	IEA	GO_REF:0000116	RHEA:23708	300269	RHEA		F
+UniProtKB	Q3YWM8	mrcA	involved_in	GO:0009252	peptidoglycan biosynthetic process	ECO:0000322	IEA	GO_REF:0000041	UniPathway:UPA00219	300269	UniProt		P
+UniProtKB	Q3YWQ5	nirD	enables	GO:0051537	2 iron, 2 sulfur cluster binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR036922	300269	InterPro		F
+UniProtKB	Q3YWQ5	nirD	enables	GO:0008942	nitrite reductase [NAD(P)H] activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR012748|InterPro:IPR017881	300269	InterPro		F
+UniProtKB	Q3YWQ5	nirD	involved_in	GO:0042128	nitrate assimilation	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0534	300269	UniProt		P
+UniProtKB	Q3YWZ3	accC	enables	GO:0005524	ATP binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR005479|InterPro:IPR011761|InterPro:IPR013815	300269	InterPro		F
+UniProtKB	Q3YWZ3	accC	enables	GO:0016874	ligase activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR004549	300269	InterPro		F
+UniProtKB	Q3YWZ3	accC	enables	GO:0046872	metal ion binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR011761	300269	InterPro		F
+UniProtKB	Q3YWZ3	accC	enables	GO:0005524	ATP binding	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0067	300269	UniProt		F
+UniProtKB	Q3YWZ3	accC	enables	GO:0016874	ligase activity	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0436	300269	UniProt		F
+UniProtKB	Q3YWZ3	accC	enables	GO:0000166	nucleotide binding	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0547	300269	UniProt		F
+UniProtKB	Q3YWZ3	accC	involved_in	GO:0006633	fatty acid biosynthetic process	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0275	300269	UniProt		P
+UniProtKB	Q3YWZ3	accC	involved_in	GO:0006631	fatty acid metabolic process	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0276	300269	UniProt		P
+UniProtKB	Q3YWZ3	accC	involved_in	GO:0006629	lipid metabolic process	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0443	300269	UniProt		P
+UniProtKB	Q3YWZ3	accC	enables	GO:0004075	biotin carboxylase activity	ECO:0000501	IEA	GO_REF:0000003	EC:6.3.4.14	300269	UniProt		F
+UniProtKB	Q3YWZ3	accC	enables	GO:0003989	acetyl-CoA carboxylase activity	ECO:0000501	IEA	GO_REF:0000003	EC:6.4.1.2	300269	UniProt		F
+UniProtKB	Q3YWZ3	accC	enables	GO:0004075	biotin carboxylase activity	ECO:0000256	IEA	GO_REF:0000116	RHEA:13501	300269	RHEA		F
+UniProtKB	Q3YWZ3	accC	enables	GO:0003989	acetyl-CoA carboxylase activity	ECO:0000256	IEA	GO_REF:0000116	RHEA:11308	300269	RHEA		F
+UniProtKB	Q3YWZ3	accC	enables	GO:0005524	ATP binding	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000414645	300269	UniProt		F
+UniProtKB	Q3YWZ3	accC	enables	GO:0000166	nucleotide binding	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000414645	300269	UniProt		F
+UniProtKB	Q3YWZ3	accC	involved_in	GO:2001295	malonyl-CoA biosynthetic process	ECO:0000322	IEA	GO_REF:0000041	UniPathway:UPA00655	300269	UniProt		P
+UniProtKB	Q3YWZ4	accB	part_of	GO:0009317	acetyl-CoA carboxylase complex	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001249	300269	InterPro		C
+UniProtKB	Q3YWZ4	accB	enables	GO:0003989	acetyl-CoA carboxylase activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001249	300269	InterPro		F
+UniProtKB	Q3YWZ4	accB	involved_in	GO:0006633	fatty acid biosynthetic process	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001249	300269	InterPro		P
+UniProtKB	Q3YWZ4	accB	involved_in	GO:0006633	fatty acid biosynthetic process	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0275	300269	UniProt		P
+UniProtKB	Q3YWZ4	accB	involved_in	GO:0006631	fatty acid metabolic process	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0276	300269	UniProt		P
+UniProtKB	Q3YWZ4	accB	involved_in	GO:0006629	lipid metabolic process	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0443	300269	UniProt		P
+UniProtKB	Q3YWZ4	accB	involved_in	GO:0006633	fatty acid biosynthetic process	ECO:0000322	IEA	GO_REF:0000041	UniPathway:UPA00094	300269	UniProt		P
+UniProtKB	Q3YX28	gltD	enables	GO:0016491	oxidoreductase activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR023753	300269	InterPro		F
+UniProtKB	Q3YX28	gltD	enables	GO:0051536	iron-sulfur cluster binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR009051	300269	InterPro		F
+UniProtKB	Q3YX28	gltD	enables	GO:0051539	4 iron, 4 sulfur cluster binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR006006	300269	InterPro		F
+UniProtKB	Q3YXB5	tdcE	located_in	GO:0005737	cytoplasm	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR005949	300269	InterPro		C
+UniProtKB	Q3YXB5	tdcE	enables	GO:0008861	formate C-acetyltransferase activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR005949	300269	InterPro		F
+UniProtKB	Q3YXB5	tdcE	enables	GO:0003824	catalytic activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001150|InterPro:IPR004184	300269	InterPro		F
+UniProtKB	Q3YXB5	tdcE	involved_in	GO:0005975	carbohydrate metabolic process	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR005949	300269	InterPro		P
+UniProtKB	Q3YXB5	tdcE	located_in	GO:0005737	cytoplasm	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0963	300269	UniProt		C
+UniProtKB	Q3YXB5	tdcE	enables	GO:0016740	transferase activity	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0808	300269	UniProt		F
+UniProtKB	Q3YXB5	tdcE	enables	GO:0016746	transferase activity, transferring acyl groups	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0012	300269	UniProt		F
+UniProtKB	Q3YXB5	tdcE	enables	GO:0008861	formate C-acetyltransferase activity	ECO:0000501	IEA	GO_REF:0000003	EC:2.3.1.54	300269	UniProt		F
+UniProtKB	Q3YXB5	tdcE	located_in	GO:0005737	cytoplasm	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0086	300269	UniProt		C
+UniProtKB	Q3YXB5	tdcE	enables	GO:0008861	formate C-acetyltransferase activity	ECO:0000256	IEA	GO_REF:0000116	RHEA:11844	300269	RHEA		F
+UniProtKB	Q3YXI1	ttdB	enables	GO:0016836	hydro-lyase activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR004647|InterPro:IPR036660	300269	InterPro		F
+UniProtKB	Q3YXI1	ttdB	enables	GO:0016829	lyase activity	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0456	300269	UniProt		F
+UniProtKB	Q3YXI1	ttdB	enables	GO:0008730	L(+)-tartrate dehydratase activity	ECO:0000501	IEA	GO_REF:0000003	EC:4.2.1.32	300269	UniProt		F
+UniProtKB	Q3YXI1	ttdB	enables	GO:0008730	L(+)-tartrate dehydratase activity	ECO:0000256	IEA	GO_REF:0000116	RHEA:15413	300269	RHEA		F
+UniProtKB	Q3YXX5	fldB	enables	GO:0009055	electron transfer activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001226	300269	InterPro		F
+UniProtKB	Q3YXX5	fldB	enables	GO:0010181	FMN binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001226|InterPro:IPR008254|InterPro:IPR010086	300269	InterPro		F
+UniProtKB	Q3YXX5	fldB	enables	GO:0009055	electron transfer activity	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000101271	300269	UniProt		F
+UniProtKB	Q3YXX5	fldB	enables	GO:0010181	FMN binding	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000101271	300269	UniProt		F
+UniProtKB	Q3YXX5	fldB	involved_in	GO:0022900	electron transport chain	ECO:0000366	IEA	GO_REF:0000108	GO:0009055	300269	GOC		P
+UniProtKB	Q3YXX5	fldB	involved_in	GO:0022900	electron transport chain	ECO:0000366	IEA	GO_REF:0000108	GO:0009055	300269	GOC		P
+UniProtKB	Q3YY03	SSON_3017	enables	GO:0016491	oxidoreductase activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR008274|InterPro:IPR037165	300269	InterPro		F
+UniProtKB	Q3YY95	cysI	enables	GO:0020037	heme binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR006066|InterPro:IPR006067	300269	InterPro		F
+UniProtKB	Q3YY95	cysI	part_of	GO:0009337	sulfite reductase complex (NADPH)	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR011786	300269	InterPro		C
+UniProtKB	Q3YY95	cysI	enables	GO:0004783	sulfite reductase (NADPH) activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR011786	300269	InterPro		F
+UniProtKB	Q3YY95	cysI	enables	GO:0016491	oxidoreductase activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR005117|InterPro:IPR006066|InterPro:IPR006067|InterPro:IPR036136	300269	InterPro		F
+UniProtKB	Q3YY95	cysI	involved_in	GO:0008652	cellular amino acid biosynthetic process	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR011786	300269	InterPro		P
+UniProtKB	Q3YY95	cysI	enables	GO:0050661	NADP binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR011786	300269	InterPro		F
+UniProtKB	Q3YY95	cysI	enables	GO:0051536	iron-sulfur cluster binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR006066|InterPro:IPR006067	300269	InterPro		F
+UniProtKB	Q3YY95	cysI	enables	GO:0051539	4 iron, 4 sulfur cluster binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR011786	300269	InterPro		F
+UniProtKB	Q3YY95	cysI	involved_in	GO:0019344	cysteine biosynthetic process	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0198	300269	UniProt		P
+UniProtKB	Q3YY95	cysI	enables	GO:0016491	oxidoreductase activity	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0560	300269	UniProt		F
+UniProtKB	Q3YY95	cysI	enables	GO:0046872	metal ion binding	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0479	300269	UniProt		F
+UniProtKB	Q3YY95	cysI	enables	GO:0051536	iron-sulfur cluster binding	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0411	300269	UniProt		F
+UniProtKB	Q3YY95	cysI	enables	GO:0051539	4 iron, 4 sulfur cluster binding	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0004	300269	UniProt		F
+UniProtKB	Q3YY95	cysI	involved_in	GO:0008652	cellular amino acid biosynthetic process	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0028	300269	UniProt		P
+UniProtKB	Q3YY95	cysI	enables	GO:0004783	sulfite reductase (NADPH) activity	ECO:0000501	IEA	GO_REF:0000003	EC:1.8.1.2	300269	UniProt		F
+UniProtKB	Q3YY95	cysI	enables	GO:0004783	sulfite reductase (NADPH) activity	ECO:0000256	IEA	GO_REF:0000116	RHEA:13801	300269	RHEA		F
+UniProtKB	Q3YY95	cysI	involved_in	GO:0000103	sulfate assimilation	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000079061	300269	UniProt		P
+UniProtKB	Q3YY95	cysI	enables	GO:0004783	sulfite reductase (NADPH) activity	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000079061	300269	UniProt		F
+UniProtKB	Q3YY95	cysI	involved_in	GO:0070814	hydrogen sulfide biosynthetic process	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000079061	300269	UniProt		P
+UniProtKB	Q3YY95	cysI	involved_in	GO:0070814	hydrogen sulfide biosynthetic process	ECO:0000322	IEA	GO_REF:0000041	UniPathway:UPA00140	300269	UniProt		P
+UniProtKB	Q3YY96	cysH	involved_in	GO:0019379	sulfate assimilation, phosphoadenylyl sulfate reduction by phosphoadenylyl-sulfate reductase (thioredoxin)	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR004511|InterPro:IPR011800	300269	InterPro		P
+UniProtKB	Q3YY96	cysH	enables	GO:0004604	phosphoadenylyl-sulfate reductase (thioredoxin) activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR004511|InterPro:IPR011800	300269	InterPro		F
+UniProtKB	Q3YY96	cysH	enables	GO:0003824	catalytic activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR002500	300269	InterPro		F
+UniProtKB	Q3YY96	cysH	located_in	GO:0005737	cytoplasm	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0963	300269	UniProt		C
+UniProtKB	Q3YY96	cysH	enables	GO:0016491	oxidoreductase activity	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0560	300269	UniProt		F
+UniProtKB	Q3YY96	cysH	enables	GO:0004604	phosphoadenylyl-sulfate reductase (thioredoxin) activity	ECO:0000501	IEA	GO_REF:0000003	EC:1.8.4.8	300269	UniProt		F
+UniProtKB	Q3YY96	cysH	located_in	GO:0005737	cytoplasm	ECO:0000322	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0086	300269	UniProt		C
+UniProtKB	Q3YY96	cysH	enables	GO:0004604	phosphoadenylyl-sulfate reductase (thioredoxin) activity	ECO:0000256	IEA	GO_REF:0000116	RHEA:11724	300269	RHEA		F
+UniProtKB	Q3YY96	cysH	involved_in	GO:0019379	sulfate assimilation, phosphoadenylyl sulfate reduction by phosphoadenylyl-sulfate reductase (thioredoxin)	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000037451	300269	UniProt		P
+UniProtKB	Q3YY96	cysH	located_in	GO:0005737	cytoplasm	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000037451	300269	UniProt		C
+UniProtKB	Q3YY96	cysH	enables	GO:0004604	phosphoadenylyl-sulfate reductase (thioredoxin) activity	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000037451	300269	UniProt		F
+UniProtKB	Q3YY96	cysH	involved_in	GO:0070814	hydrogen sulfide biosynthetic process	ECO:0000322	IEA	GO_REF:0000041	UniPathway:UPA00140	300269	UniProt		P
+UniProtKB	Q3YYB1	cysN	enables	GO:0005525	GTP binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR000795|InterPro:IPR005225	300269	InterPro		F
+UniProtKB	Q3YYB1	cysN	involved_in	GO:0006790	sulfur compound metabolic process	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR011779	300269	InterPro		P
+UniProtKB	Q3YYB1	cysN	enables	GO:0003924	GTPase activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR000795	300269	InterPro		F
+UniProtKB	Q3YYB1	cysN	enables	GO:0005524	ATP binding	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0067	300269	UniProt		F
+UniProtKB	Q3YYB1	cysN	enables	GO:0005525	GTP binding	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0342	300269	UniProt		F
+UniProtKB	Q3YYB1	cysN	enables	GO:0016740	transferase activity	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0808	300269	UniProt		F
+UniProtKB	Q3YYB1	cysN	enables	GO:0016779	nucleotidyltransferase activity	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0548	300269	UniProt		F
+UniProtKB	Q3YYB1	cysN	enables	GO:0000166	nucleotide binding	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0547	300269	UniProt		F
+UniProtKB	Q3YYB1	cysN	enables	GO:0004781	sulfate adenylyltransferase (ATP) activity	ECO:0000501	IEA	GO_REF:0000003	EC:2.7.7.4	300269	UniProt		F
+UniProtKB	Q3YYB1	cysN	enables	GO:0004781	sulfate adenylyltransferase (ATP) activity	ECO:0000256	IEA	GO_REF:0000116	RHEA:18133	300269	RHEA		F
+UniProtKB	Q3YYB1	cysN	enables	GO:0005525	GTP binding	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000076154	300269	UniProt		F
+UniProtKB	Q3YYB1	cysN	involved_in	GO:0000103	sulfate assimilation	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000076154	300269	UniProt		P
+UniProtKB	Q3YYB1	cysN	enables	GO:0004781	sulfate adenylyltransferase (ATP) activity	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000076154	300269	UniProt		F
+UniProtKB	Q3YYB1	cysN	involved_in	GO:0070814	hydrogen sulfide biosynthetic process	ECO:0000322	IEA	GO_REF:0000041	UniPathway:UPA00140	300269	UniProt		P
+UniProtKB	Q3YYD7	hycB	enables	GO:0046872	metal ion binding	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0479	300269	UniProt		F
+UniProtKB	Q3YYD7	hycB	enables	GO:0051536	iron-sulfur cluster binding	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0411	300269	UniProt		F
+UniProtKB	Q3YYD9	hycD	located_in	GO:0016020	membrane	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001694|InterPro:IPR018086	300269	InterPro		C
+UniProtKB	Q3YYD9	hycD	located_in	GO:0016020	membrane	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0472	300269	UniProt		C
+UniProtKB	Q3YYD9	hycD	located_in	GO:0016021	integral component of membrane	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0812	300269	UniProt		C
+UniProtKB	Q3YYD9	hycD	located_in	GO:0016020	membrane	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0162	300269	UniProt		C
+UniProtKB	Q3YYE1	hycF	enables	GO:0016651	oxidoreductase activity, acting on NAD(P)H	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR010226	300269	InterPro		F
+UniProtKB	Q3YYE1	hycF	located_in	GO:0016020	membrane	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR010226	300269	InterPro		C
+UniProtKB	Q3YYE1	hycF	enables	GO:0051539	4 iron, 4 sulfur cluster binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR010226	300269	InterPro		F
+UniProtKB	Q3YYE1	hycF	enables	GO:0046872	metal ion binding	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0479	300269	UniProt		F
+UniProtKB	Q3YYE1	hycF	enables	GO:0051536	iron-sulfur cluster binding	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0411	300269	UniProt		F
+UniProtKB	Q3YYE1	hycF	enables	GO:0051539	4 iron, 4 sulfur cluster binding	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0004	300269	UniProt		F
+UniProtKB	Q3YYE2	hycG	enables	GO:0008137	NADH dehydrogenase (ubiquinone) activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR006138	300269	InterPro		F
+UniProtKB	Q3YYE2	hycG	enables	GO:0048038	quinone binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR006138	300269	InterPro		F
+UniProtKB	Q3YYE2	hycG	enables	GO:0051536	iron-sulfur cluster binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR006137	300269	InterPro		F
+UniProtKB	Q3YYE2	hycG	enables	GO:0051539	4 iron, 4 sulfur cluster binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR006138	300269	InterPro		F
+UniProtKB	Q3YYE2	hycG	enables	GO:0051536	iron-sulfur cluster binding	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0411	300269	UniProt		F
+UniProtKB	Q3YYE2	hycG	enables	GO:0051539	4 iron, 4 sulfur cluster binding	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0004	300269	UniProt		F
+UniProtKB	Q3YYE2	hycG	involved_in	GO:0022900	electron transport chain	ECO:0000366	IEA	GO_REF:0000108	GO:0008137	300269	GOC		P
+UniProtKB	Q3YYF3	norW	enables	GO:0016731	oxidoreductase activity, acting on iron-sulfur proteins as donors, NAD or NADP as acceptor	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR023961	300269	InterPro		F
+UniProtKB	Q3YYF3	norW	enables	GO:0016491	oxidoreductase activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR023753	300269	InterPro		F
+UniProtKB	Q3YYF3	norW	located_in	GO:0005737	cytoplasm	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0963	300269	UniProt		C
+UniProtKB	Q3YYF3	norW	enables	GO:0016491	oxidoreductase activity	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0560	300269	UniProt		F
+UniProtKB	Q3YYF3	norW	located_in	GO:0005737	cytoplasm	ECO:0000322	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0086	300269	UniProt		C
+UniProtKB	Q3YYF3	norW	located_in	GO:0005737	cytoplasm	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000041414	300269	UniProt		C
+UniProtKB	Q3YYF3	norW	enables	GO:0016731	oxidoreductase activity, acting on iron-sulfur proteins as donors, NAD or NADP as acceptor	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000041414	300269	UniProt		F
+UniProtKB	Q3YYF4	norV	enables	GO:0005506	iron ion binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR023957|InterPro:IPR024934|InterPro:IPR024935	300269	InterPro		F
+UniProtKB	Q3YYF4	norV	enables	GO:0016966	nitric oxide reductase activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR023957	300269	InterPro		F
+UniProtKB	Q3YYF4	norV	enables	GO:0016491	oxidoreductase activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR016440	300269	InterPro		F
+UniProtKB	Q3YYF4	norV	enables	GO:0046872	metal ion binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR016440	300269	InterPro		F
+UniProtKB	Q3YYF4	norV	enables	GO:0009055	electron transfer activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR016440	300269	InterPro		F
+UniProtKB	Q3YYF4	norV	enables	GO:0010181	FMN binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR008254|InterPro:IPR016440	300269	InterPro		F
+UniProtKB	Q3YYF4	norV	located_in	GO:0005737	cytoplasm	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0963	300269	UniProt		C
+UniProtKB	Q3YYF4	norV	enables	GO:0016491	oxidoreductase activity	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0560	300269	UniProt		F
+UniProtKB	Q3YYF4	norV	enables	GO:0046872	metal ion binding	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0479	300269	UniProt		F
+UniProtKB	Q3YYF4	norV	located_in	GO:0005737	cytoplasm	ECO:0000322	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0086	300269	UniProt		C
+UniProtKB	Q3YYF4	norV	located_in	GO:0005737	cytoplasm	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000106956	300269	UniProt		C
+UniProtKB	Q3YYF4	norV	enables	GO:0016491	oxidoreductase activity	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000106956	300269	UniProt		F
+UniProtKB	Q3YYF4	norV	enables	GO:0009055	electron transfer activity	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000106956	300269	UniProt		F
+UniProtKB	Q3YYF4	norV	involved_in	GO:0022900	electron transport chain	ECO:0000366	IEA	GO_REF:0000108	GO:0009055	300269	GOC		P
+UniProtKB	Q3YYF4	norV	involved_in	GO:0022900	electron transport chain	ECO:0000366	IEA	GO_REF:0000108	GO:0009055	300269	GOC		P
+UniProtKB	Q3YYI1	nrdF	involved_in	GO:0009263	deoxyribonucleotide biosynthetic process	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR000358|InterPro:IPR026494|InterPro:IPR033909	300269	InterPro		P
+UniProtKB	Q3YYI1	nrdF	part_of	GO:0005971	ribonucleoside-diphosphate reductase complex	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR026494	300269	InterPro		C
+UniProtKB	Q3YYI1	nrdF	enables	GO:0016491	oxidoreductase activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR012348	300269	InterPro		F
+UniProtKB	Q3YYI1	nrdF	enables	GO:0016491	oxidoreductase activity	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0560	300269	UniProt		F
+UniProtKB	Q3YYI1	nrdF	enables	GO:0046872	metal ion binding	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0479	300269	UniProt		F
+UniProtKB	Q3YYI1	nrdF	involved_in	GO:0006260	DNA replication	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0235	300269	UniProt		P
+UniProtKB	Q3YYI1	nrdF	enables	GO:0004748	ribonucleoside-diphosphate reductase activity, thioredoxin disulfide as acceptor	ECO:0000501	IEA	GO_REF:0000003	EC:1.17.4.1	300269	UniProt		F
+UniProtKB	Q3YYI1	nrdF	enables	GO:0004748	ribonucleoside-diphosphate reductase activity, thioredoxin disulfide as acceptor	ECO:0000256	IEA	GO_REF:0000116	RHEA:23252	300269	RHEA		F
+UniProtKB	Q3YYI1	nrdF	involved_in	GO:0006260	DNA replication	ECO:0000322	IEA	GO_REF:0000041	UniPathway:UPA00326	300269	UniProt		P
+UniProtKB	Q3YYT3	trxC	involved_in	GO:0006662	glycerol ether metabolic process	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR005746	300269	InterPro		P
+UniProtKB	Q3YYT3	trxC	enables	GO:0015035	protein-disulfide reductase activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR005746	300269	InterPro		F
+UniProtKB	Q3YYT6	grcA	enables	GO:0003824	catalytic activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001150	300269	InterPro		F
+UniProtKB	Q3YZ11	hcaD	enables	GO:0008860	ferredoxin-NAD+ reductase activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR023744	300269	InterPro		F
+UniProtKB	Q3YZ11	hcaD	enables	GO:0016491	oxidoreductase activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR016156|InterPro:IPR023753	300269	InterPro		F
+UniProtKB	Q3YZ11	hcaD	enables	GO:0050660	flavin adenine dinucleotide binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR016156	300269	InterPro		F
+UniProtKB	Q3YZ11	hcaD	involved_in	GO:0019439	aromatic compound catabolic process	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0058	300269	UniProt		P
+UniProtKB	Q3YZ11	hcaD	enables	GO:0016491	oxidoreductase activity	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0560	300269	UniProt		F
+UniProtKB	Q3YZ11	hcaD	enables	GO:0008860	ferredoxin-NAD+ reductase activity	ECO:0000501	IEA	GO_REF:0000003	EC:1.18.1.3	300269	UniProt		F
+UniProtKB	Q3YZ11	hcaD	enables	GO:0008860	ferredoxin-NAD+ reductase activity	ECO:0000256	IEA	GO_REF:0000116	RHEA:16521	300269	RHEA		F
+UniProtKB	Q3YZ11	hcaD	involved_in	GO:0019439	aromatic compound catabolic process	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000083152	300269	UniProt		P
+UniProtKB	Q3YZ11	hcaD	enables	GO:0008695	3-phenylpropionate dioxygenase activity	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000083152	300269	UniProt		F
+UniProtKB	Q3YZ11	hcaD	involved_in	GO:0019380	3-phenylpropionate catabolic process	ECO:0000322	IEA	GO_REF:0000041	UniPathway:UPA00714	300269	UniProt		P
+UniProtKB	Q3YZ14	hcaF	involved_in	GO:0019380	3-phenylpropionate catabolic process	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR023712	300269	InterPro		P
+UniProtKB	Q3YZ14	hcaF	involved_in	GO:0006725	cellular aromatic compound metabolic process	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR000391	300269	InterPro		P
+UniProtKB	Q3YZ14	hcaF	involved_in	GO:0019439	aromatic compound catabolic process	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0058	300269	UniProt		P
+UniProtKB	Q3YZ14	hcaF	enables	GO:0016491	oxidoreductase activity	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0560	300269	UniProt		F
+UniProtKB	Q3YZ14	hcaF	enables	GO:0051213	dioxygenase activity	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0223	300269	UniProt		F
+UniProtKB	Q3YZ14	hcaF	enables	GO:0008695	3-phenylpropionate dioxygenase activity	ECO:0000501	IEA	GO_REF:0000003	EC:1.14.12.19	300269	UniProt		F
+UniProtKB	Q3YZ14	hcaF	enables	GO:0008695	3-phenylpropionate dioxygenase activity	ECO:0000256	IEA	GO_REF:0000116	RHEA:20357	300269	RHEA		F
+UniProtKB	Q3YZ14	hcaF	involved_in	GO:0019439	aromatic compound catabolic process	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000083130	300269	UniProt		P
+UniProtKB	Q3YZ14	hcaF	enables	GO:0008695	3-phenylpropionate dioxygenase activity	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000083130	300269	UniProt		F
+UniProtKB	Q3YZ14	hcaF	involved_in	GO:0019380	3-phenylpropionate catabolic process	ECO:0000322	IEA	GO_REF:0000041	UniPathway:UPA00714	300269	UniProt		P
+UniProtKB	Q3YZ22	yfhO	enables	GO:0030170	pyridoxal phosphate binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR010240	300269	InterPro		F
+UniProtKB	Q3YZ22	yfhO	enables	GO:0031071	cysteine desulfurase activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR010240	300269	InterPro		F
+UniProtKB	Q3YZ22	yfhO	enables	GO:0003824	catalytic activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR015421|InterPro:IPR015422	300269	InterPro		F
+UniProtKB	Q3YZ22	yfhO	involved_in	GO:0044571	[2Fe-2S] cluster assembly	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR010240	300269	InterPro		P
+UniProtKB	Q3YZ22	yfhO	located_in	GO:0005737	cytoplasm	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0963	300269	UniProt		C
+UniProtKB	Q3YZ22	yfhO	enables	GO:0008483	transaminase activity	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0032	300269	UniProt		F
+UniProtKB	Q3YZ22	yfhO	enables	GO:0016740	transferase activity	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0808	300269	UniProt		F
+UniProtKB	Q3YZ22	yfhO	enables	GO:0046872	metal ion binding	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0479	300269	UniProt		F
+UniProtKB	Q3YZ22	yfhO	enables	GO:0051536	iron-sulfur cluster binding	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0411	300269	UniProt		F
+UniProtKB	Q3YZ22	yfhO	enables	GO:0051537	2 iron, 2 sulfur cluster binding	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0001	300269	UniProt		F
+UniProtKB	Q3YZ22	yfhO	enables	GO:0031071	cysteine desulfurase activity	ECO:0000501	IEA	GO_REF:0000003	EC:2.8.1.7	300269	UniProt		F
+UniProtKB	Q3YZ22	yfhO	located_in	GO:0005737	cytoplasm	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0086	300269	UniProt		C
+UniProtKB	Q3YZ22	yfhO	enables	GO:0031071	cysteine desulfurase activity	ECO:0000256	IEA	GO_REF:0000116	RHEA:43892	300269	RHEA		F
+UniProtKB	Q3YZ22	yfhO	enables	GO:0030170	pyridoxal phosphate binding	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000084057	300269	UniProt		F
+UniProtKB	Q3YZ22	yfhO	located_in	GO:0005737	cytoplasm	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000084057	300269	UniProt		C
+UniProtKB	Q3YZ22	yfhO	enables	GO:0031071	cysteine desulfurase activity	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000084057	300269	UniProt		F
+UniProtKB	Q3YZ22	yfhO	involved_in	GO:0044571	[2Fe-2S] cluster assembly	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000084057	300269	UniProt		P
+UniProtKB	Q3YZ22	yfhO	enables	GO:0051537	2 iron, 2 sulfur cluster binding	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000084057	300269	UniProt		F
+UniProtKB	Q3YZ65	hyfG	enables	GO:0016151	nickel cation binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001501	300269	InterPro		F
+UniProtKB	Q3YZ65	hyfG	enables	GO:0008137	NADH dehydrogenase (ubiquinone) activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001268	300269	InterPro		F
+UniProtKB	Q3YZ65	hyfG	enables	GO:0016651	oxidoreductase activity, acting on NAD(P)H	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001135|InterPro:IPR014029	300269	InterPro		F
+UniProtKB	Q3YZ65	hyfG	enables	GO:0048038	quinone binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001135	300269	InterPro		F
+UniProtKB	Q3YZ65	hyfG	enables	GO:0051287	NAD binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001135	300269	InterPro		F
+UniProtKB	Q3YZ65	hyfG	involved_in	GO:0022900	electron transport chain	ECO:0000366	IEA	GO_REF:0000108	GO:0008137	300269	GOC		P
+UniProtKB	Q3YZ72	bcp	enables	GO:0016209	antioxidant activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR000866	300269	InterPro		F
+UniProtKB	Q3YZ72	bcp	enables	GO:0016491	oxidoreductase activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR000866	300269	InterPro		F
+UniProtKB	Q3YZ72	bcp	enables	GO:0016491	oxidoreductase activity	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0560	300269	UniProt		F
+UniProtKB	Q3YZ72	bcp	involved_in	GO:0098869	cellular oxidant detoxification	ECO:0000366	IEA	GO_REF:0000108	GO:0016209	300269	GOC		P
+UniProtKB	Q3YZQ0	ubiX	enables	GO:0003824	catalytic activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR003382|InterPro:IPR036551	300269	InterPro		F
+UniProtKB	Q3YZQ0	ubiX	enables	GO:0004659	prenyltransferase activity	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0637	300269	UniProt		F
+UniProtKB	Q3YZQ0	ubiX	enables	GO:0016740	transferase activity	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0808	300269	UniProt		F
+UniProtKB	Q3YZQ0	ubiX	enables	GO:0016829	lyase activity	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0456	300269	UniProt		F
+UniProtKB	Q3YZQ0	ubiX	enables	GO:0106141	flavin prenyltransferase activity	ECO:0000501	IEA	GO_REF:0000003	EC:2.5.1.129	300269	UniProt		F
+UniProtKB	Q3YZQ0	ubiX	enables	GO:0106141	flavin prenyltransferase activity	ECO:0000256	IEA	GO_REF:0000116	RHEA:37743	300269	RHEA		F
+UniProtKB	Q3YZQ0	ubiX	enables	GO:0004659	prenyltransferase activity	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000195519	300269	UniProt		F
+UniProtKB	Q3YZS2	nuoA	enables	GO:0008137	NADH dehydrogenase (ubiquinone) activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR000440	300269	InterPro		F
+UniProtKB	Q3YZS2	nuoA	enables	GO:0016651	oxidoreductase activity, acting on NAD(P)H	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR023043	300269	InterPro		F
+UniProtKB	Q3YZS2	nuoA	enables	GO:0048038	quinone binding	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0874	300269	UniProt		F
+UniProtKB	Q3YZS2	nuoA	located_in	GO:0005886	plasma membrane	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-1003	300269	UniProt		C
+UniProtKB	Q3YZS2	nuoA	located_in	GO:0005886	plasma membrane	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0997	300269	UniProt		C
+UniProtKB	Q3YZS2	nuoA	located_in	GO:0016020	membrane	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0472	300269	UniProt		C
+UniProtKB	Q3YZS2	nuoA	located_in	GO:0016021	integral component of membrane	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0812	300269	UniProt		C
+UniProtKB	Q3YZS2	nuoA	located_in	GO:0005886	plasma membrane	ECO:0000322	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0037	300269	UniProt		C
+UniProtKB	Q3YZS2	nuoA	located_in	GO:0005886	plasma membrane	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000051415	300269	UniProt		C
+UniProtKB	Q3YZS2	nuoA	enables	GO:0050136	NADH dehydrogenase (quinone) activity	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000051415	300269	UniProt		F
+UniProtKB	Q3YZS2	nuoA	involved_in	GO:0022900	electron transport chain	ECO:0000366	IEA	GO_REF:0000108	GO:0008137	300269	GOC		P
+UniProtKB	Q3YZS3	nuoB	enables	GO:0008137	NADH dehydrogenase (ubiquinone) activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR006138	300269	InterPro		F
+UniProtKB	Q3YZS3	nuoB	enables	GO:0048038	quinone binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR006138	300269	InterPro		F
+UniProtKB	Q3YZS3	nuoB	enables	GO:0051536	iron-sulfur cluster binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR006137	300269	InterPro		F
+UniProtKB	Q3YZS3	nuoB	enables	GO:0051539	4 iron, 4 sulfur cluster binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR006138	300269	InterPro		F
+UniProtKB	Q3YZS3	nuoB	enables	GO:0048038	quinone binding	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0874	300269	UniProt		F
+UniProtKB	Q3YZS3	nuoB	located_in	GO:0005886	plasma membrane	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0997	300269	UniProt		C
+UniProtKB	Q3YZS3	nuoB	located_in	GO:0005886	plasma membrane	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-1003	300269	UniProt		C
+UniProtKB	Q3YZS3	nuoB	enables	GO:0046872	metal ion binding	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0479	300269	UniProt		F
+UniProtKB	Q3YZS3	nuoB	enables	GO:0051536	iron-sulfur cluster binding	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0411	300269	UniProt		F
+UniProtKB	Q3YZS3	nuoB	enables	GO:0051539	4 iron, 4 sulfur cluster binding	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0004	300269	UniProt		F
+UniProtKB	Q3YZS3	nuoB	located_in	GO:0016020	membrane	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0472	300269	UniProt		C
+UniProtKB	Q3YZS3	nuoB	located_in	GO:0005886	plasma membrane	ECO:0000322	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0037	300269	UniProt		C
+UniProtKB	Q3YZS3	nuoB	enables	GO:0005506	iron ion binding	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000101894	300269	UniProt		F
+UniProtKB	Q3YZS3	nuoB	located_in	GO:0005886	plasma membrane	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000101894	300269	UniProt		C
+UniProtKB	Q3YZS3	nuoB	enables	GO:0050136	NADH dehydrogenase (quinone) activity	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000101894	300269	UniProt		F
+UniProtKB	Q3YZS3	nuoB	involved_in	GO:0022900	electron transport chain	ECO:0000366	IEA	GO_REF:0000108	GO:0008137	300269	GOC		P
+UniProtKB	Q3YZS4	nuoC	enables	GO:0008137	NADH dehydrogenase (ubiquinone) activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001268	300269	InterPro		F
+UniProtKB	Q3YZS4	nuoC	part_of	GO:0030964	NADH dehydrogenase complex	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR023062	300269	InterPro		C
+UniProtKB	Q3YZS4	nuoC	enables	GO:0016651	oxidoreductase activity, acting on NAD(P)H	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001135|InterPro:IPR010218|InterPro:IPR014029|InterPro:IPR020396|InterPro:IPR022885	300269	InterPro		F
+UniProtKB	Q3YZS4	nuoC	enables	GO:0048038	quinone binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001135	300269	InterPro		F
+UniProtKB	Q3YZS4	nuoC	enables	GO:0050136	NADH dehydrogenase (quinone) activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR023062	300269	InterPro		F
+UniProtKB	Q3YZS4	nuoC	enables	GO:0051287	NAD binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001135	300269	InterPro		F
+UniProtKB	Q3YZS4	nuoC	enables	GO:0003824	catalytic activity	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0511	300269	UniProt		F
+UniProtKB	Q3YZS4	nuoC	enables	GO:0048038	quinone binding	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0874	300269	UniProt		F
+UniProtKB	Q3YZS4	nuoC	located_in	GO:0005886	plasma membrane	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-1003	300269	UniProt		C
+UniProtKB	Q3YZS4	nuoC	located_in	GO:0005886	plasma membrane	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0997	300269	UniProt		C
+UniProtKB	Q3YZS4	nuoC	located_in	GO:0016020	membrane	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0472	300269	UniProt		C
+UniProtKB	Q3YZS4	nuoC	involved_in	GO:0008152	metabolic process	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0511	300269	UniProt		P
+UniProtKB	Q3YZS4	nuoC	located_in	GO:0005886	plasma membrane	ECO:0000322	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0037	300269	UniProt		C
+UniProtKB	Q3YZS4	nuoC	enables	GO:0016655	oxidoreductase activity, acting on NAD(P)H, quinone or similar compound as acceptor	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000101950	300269	UniProt		F
+UniProtKB	Q3YZS4	nuoC	located_in	GO:0005886	plasma membrane	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000101950	300269	UniProt		C
+UniProtKB	Q3YZS4	nuoC	enables	GO:0050136	NADH dehydrogenase (quinone) activity	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000101950	300269	UniProt		F
+UniProtKB	Q3YZS4	nuoC	involved_in	GO:0022900	electron transport chain	ECO:0000366	IEA	GO_REF:0000108	GO:0008137	300269	GOC		P
+UniProtKB	Q3YZS6	nuoF	enables	GO:0008137	NADH dehydrogenase (ubiquinone) activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001949	300269	InterPro		F
+UniProtKB	Q3YZS6	nuoF	enables	GO:0051287	NAD binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR011537	300269	InterPro		F
+UniProtKB	Q3YZS6	nuoF	enables	GO:0051539	4 iron, 4 sulfur cluster binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001949|InterPro:IPR011537|InterPro:IPR019575	300269	InterPro		F
+UniProtKB	Q3YZS6	nuoF	enables	GO:0010181	FMN binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001949|InterPro:IPR011537	300269	InterPro		F
+UniProtKB	Q3YZS6	nuoF	enables	GO:0048038	quinone binding	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0874	300269	UniProt		F
+UniProtKB	Q3YZS6	nuoF	enables	GO:0046872	metal ion binding	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0479	300269	UniProt		F
+UniProtKB	Q3YZS6	nuoF	enables	GO:0051536	iron-sulfur cluster binding	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0411	300269	UniProt		F
+UniProtKB	Q3YZS6	nuoF	enables	GO:0051539	4 iron, 4 sulfur cluster binding	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0004	300269	UniProt		F
+UniProtKB	Q3YZS6	nuoF	enables	GO:0051287	NAD binding	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000525754	300269	UniProt		F
+UniProtKB	Q3YZS6	nuoF	enables	GO:0051539	4 iron, 4 sulfur cluster binding	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000525754	300269	UniProt		F
+UniProtKB	Q3YZS6	nuoF	involved_in	GO:0022900	electron transport chain	ECO:0000366	IEA	GO_REF:0000108	GO:0008137	300269	GOC		P
+UniProtKB	Q3YZT1	nuoK	enables	GO:0016651	oxidoreductase activity, acting on NAD(P)H	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001133	300269	InterPro		F
+UniProtKB	Q3YZT1	nuoK	involved_in	GO:0042773	ATP synthesis coupled electron transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001133	300269	InterPro		P
+UniProtKB	Q3YZT1	nuoK	enables	GO:0048038	quinone binding	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0874	300269	UniProt		F
+UniProtKB	Q3YZT1	nuoK	located_in	GO:0005886	plasma membrane	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-1003	300269	UniProt		C
+UniProtKB	Q3YZT1	nuoK	located_in	GO:0005886	plasma membrane	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0997	300269	UniProt		C
+UniProtKB	Q3YZT1	nuoK	located_in	GO:0016020	membrane	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0472	300269	UniProt		C
+UniProtKB	Q3YZT1	nuoK	located_in	GO:0016021	integral component of membrane	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0812	300269	UniProt		C
+UniProtKB	Q3YZT1	nuoK	located_in	GO:0005886	plasma membrane	ECO:0000322	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0037	300269	UniProt		C
+UniProtKB	Q3YZT1	nuoK	located_in	GO:0005886	plasma membrane	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000112713	300269	UniProt		C
+UniProtKB	Q3YZT1	nuoK	enables	GO:0050136	NADH dehydrogenase (quinone) activity	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000112713	300269	UniProt		F
+UniProtKB	Q3YZT2	nuoL	enables	GO:0008137	NADH dehydrogenase (ubiquinone) activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR003945|InterPro:IPR018393	300269	InterPro		F
+UniProtKB	Q3YZT2	nuoL	involved_in	GO:0042773	ATP synthesis coupled electron transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR003945|InterPro:IPR018393	300269	InterPro		P
+UniProtKB	Q3YZT2	nuoL	located_in	GO:0016020	membrane	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0472	300269	UniProt		C
+UniProtKB	Q3YZT2	nuoL	located_in	GO:0016021	integral component of membrane	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0812	300269	UniProt		C
+UniProtKB	Q3YZT2	nuoL	located_in	GO:0016020	membrane	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0162	300269	UniProt		C
+UniProtKB	Q3YZT4	nuoN	enables	GO:0008137	NADH dehydrogenase (ubiquinone) activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR010096	300269	InterPro		F
+UniProtKB	Q3YZT4	nuoN	involved_in	GO:0042773	ATP synthesis coupled electron transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR010096	300269	InterPro		P
+UniProtKB	Q3YZT4	nuoN	enables	GO:0048038	quinone binding	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0874	300269	UniProt		F
+UniProtKB	Q3YZT4	nuoN	located_in	GO:0005886	plasma membrane	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0997	300269	UniProt		C
+UniProtKB	Q3YZT4	nuoN	located_in	GO:0005886	plasma membrane	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-1003	300269	UniProt		C
+UniProtKB	Q3YZT4	nuoN	located_in	GO:0016020	membrane	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0472	300269	UniProt		C
+UniProtKB	Q3YZT4	nuoN	located_in	GO:0016021	integral component of membrane	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0812	300269	UniProt		C
+UniProtKB	Q3YZT4	nuoN	located_in	GO:0005886	plasma membrane	ECO:0000322	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0037	300269	UniProt		C
+UniProtKB	Q3YZT4	nuoN	located_in	GO:0005886	plasma membrane	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000060644	300269	UniProt		C
+UniProtKB	Q3YZT4	nuoN	enables	GO:0050136	NADH dehydrogenase (quinone) activity	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000060644	300269	UniProt		F
+UniProtKB	Q3YZU8	arnF	enables	GO:0022857	transmembrane transporter activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR000390	300269	InterPro		F
+UniProtKB	Q3YZU8	arnF	located_in	GO:0016021	integral component of membrane	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR000390	300269	InterPro		C
+UniProtKB	Q3YZU8	arnF	involved_in	GO:0009245	lipid A biosynthetic process	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0441	300269	UniProt		P
+UniProtKB	Q3YZU8	arnF	located_in	GO:0005886	plasma membrane	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-1003	300269	UniProt		C
+UniProtKB	Q3YZU8	arnF	located_in	GO:0005886	plasma membrane	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0997	300269	UniProt		C
+UniProtKB	Q3YZU8	arnF	involved_in	GO:0009103	lipopolysaccharide biosynthetic process	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0448	300269	UniProt		P
+UniProtKB	Q3YZU8	arnF	located_in	GO:0016020	membrane	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0472	300269	UniProt		C
+UniProtKB	Q3YZU8	arnF	located_in	GO:0016021	integral component of membrane	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0812	300269	UniProt		C
+UniProtKB	Q3YZU8	arnF	involved_in	GO:0006629	lipid metabolic process	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0443	300269	UniProt		P
+UniProtKB	Q3YZU8	arnF	located_in	GO:0005886	plasma membrane	ECO:0000322	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0037	300269	UniProt		C
+UniProtKB	Q3YZU8	arnF	enables	GO:0022857	transmembrane transporter activity	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000064676	300269	UniProt		F
+UniProtKB	Q3YZU8	arnF	involved_in	GO:0009245	lipid A biosynthetic process	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000064676	300269	UniProt		P
+UniProtKB	Q3YZU8	arnF	located_in	GO:0005887	integral component of plasma membrane	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000064676	300269	UniProt		C
+UniProtKB	Q3YZU8	arnF	involved_in	GO:0055085	transmembrane transport	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000064676	300269	UniProt		P
+UniProtKB	Q3YZU8	arnF	involved_in	GO:0009103	lipopolysaccharide biosynthetic process	ECO:0000322	IEA	GO_REF:0000041	UniPathway:UPA00030	300269	UniProt		P
+UniProtKB	Q3YZW1	rhmA	enables	GO:0016832	aldehyde-lyase activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR023593	300269	InterPro		F
+UniProtKB	Q3YZW1	rhmA	enables	GO:0003824	catalytic activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR005000|InterPro:IPR015813	300269	InterPro		F
+UniProtKB	Q3YZW1	rhmA	enables	GO:0016829	lyase activity	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0456	300269	UniProt		F
+UniProtKB	Q3YZW1	rhmA	enables	GO:0046872	metal ion binding	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0479	300269	UniProt		F
+UniProtKB	Q3YZW1	rhmA	enables	GO:0106099	2-keto-3-deoxy-L-rhamnonate aldolase activity	ECO:0000501	IEA	GO_REF:0000003	EC:4.1.2.53	300269	UniProt		F
+UniProtKB	Q3YZW1	rhmA	enables	GO:0106099	2-keto-3-deoxy-L-rhamnonate aldolase activity	ECO:0000256	IEA	GO_REF:0000116	RHEA:25784	300269	RHEA		F
+UniProtKB	Q3YZW1	rhmA	enables	GO:0016832	aldehyde-lyase activity	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000101691	300269	UniProt		F
+UniProtKB	Q3YZW1	rhmA	enables	GO:0000287	magnesium ion binding	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000101691	300269	UniProt		F
+UniProtKB	Q3YZW4	glpB	enables	GO:0004368	glycerol-3-phosphate dehydrogenase (quinone) activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR009158	300269	InterPro		F
+UniProtKB	Q3YZW4	glpB	enables	GO:0016491	oxidoreductase activity	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0560	300269	UniProt		F
+UniProtKB	Q3YZW4	glpB	enables	GO:0004368	glycerol-3-phosphate dehydrogenase (quinone) activity	ECO:0000501	IEA	GO_REF:0000003	EC:1.1.5.3	300269	UniProt		F
+UniProtKB	Q3YZW4	glpB	enables	GO:0052590	sn-glycerol-3-phosphate:ubiquinone oxidoreductase activity	ECO:0000501	IEA	GO_REF:0000003	EC:1.1.5.3	300269	UniProt		F
+UniProtKB	Q3YZW4	glpB	enables	GO:0052591	sn-glycerol-3-phosphate:ubiquinone-8 oxidoreductase activity	ECO:0000501	IEA	GO_REF:0000003	EC:1.1.5.3	300269	UniProt		F
+UniProtKB	Q3YZW4	glpB	enables	GO:0004368	glycerol-3-phosphate dehydrogenase (quinone) activity	ECO:0000256	IEA	GO_REF:0000116	RHEA:18977	300269	RHEA		F
+UniProtKB	Q3YZW4	glpB	enables	GO:0004368	glycerol-3-phosphate dehydrogenase (quinone) activity	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000033433	300269	UniProt		F
+UniProtKB	Q3YZW4	glpB	involved_in	GO:0006072	glycerol-3-phosphate metabolic process	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000033433	300269	UniProt		P
+UniProtKB	Q3YZW4	glpB	involved_in	GO:0019563	glycerol catabolic process	ECO:0000322	IEA	GO_REF:0000041	UniPathway:UPA00618	300269	UniProt		P
+UniProtKB	Q3YZY5	atoD	enables	GO:0008410	CoA-transferase activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR004163|InterPro:IPR004165|InterPro:IPR012792	300269	InterPro		F
+UniProtKB	Q3YZY5	atoD	enables	GO:0016740	transferase activity	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0808	300269	UniProt		F
+UniProtKB	Q3Z001	napA	enables	GO:0030151	molybdenum ion binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR010051	300269	InterPro		F
+UniProtKB	Q3Z001	napA	enables	GO:0016491	oxidoreductase activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR006656|InterPro:IPR006657|InterPro:IPR006963	300269	InterPro		F
+UniProtKB	Q3Z001	napA	enables	GO:0043546	molybdopterin cofactor binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR006657	300269	InterPro		F
+UniProtKB	Q3Z001	napA	enables	GO:0051539	4 iron, 4 sulfur cluster binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR027467	300269	InterPro		F
+UniProtKB	Q3Z001	napA	enables	GO:0008940	nitrate reductase activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR010051	300269	InterPro		F
+UniProtKB	Q3Z001	napA	enables	GO:0016491	oxidoreductase activity	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0560	300269	UniProt		F
+UniProtKB	Q3Z001	napA	involved_in	GO:0042128	nitrate assimilation	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0534	300269	UniProt		P
+UniProtKB	Q3Z001	napA	located_in	GO:0042597	periplasmic space	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0574	300269	UniProt		C
+UniProtKB	Q3Z001	napA	enables	GO:0046872	metal ion binding	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0479	300269	UniProt		F
+UniProtKB	Q3Z001	napA	enables	GO:0051536	iron-sulfur cluster binding	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0411	300269	UniProt		F
+UniProtKB	Q3Z001	napA	enables	GO:0051539	4 iron, 4 sulfur cluster binding	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0004	300269	UniProt		F
+UniProtKB	Q3Z001	napA	enables	GO:0050140	nitrate reductase (cytochrome) activity	ECO:0000501	IEA	GO_REF:0000003	EC:1.9.6.1	300269	UniProt		F
+UniProtKB	Q3Z001	napA	located_in	GO:0042597	periplasmic space	ECO:0000322	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0200	300269	UniProt		C
+UniProtKB	Q3Z001	napA	enables	GO:0050140	nitrate reductase (cytochrome) activity	ECO:0000256	IEA	GO_REF:0000116	RHEA:12909	300269	RHEA		F
+UniProtKB	Q3Z001	napA	enables	GO:0005506	iron ion binding	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000080092	300269	UniProt		F
+UniProtKB	Q3Z001	napA	located_in	GO:0042597	periplasmic space	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000080092	300269	UniProt		C
+UniProtKB	Q3Z001	napA	involved_in	GO:0006777	Mo-molybdopterin cofactor biosynthetic process	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000080092	300269	UniProt		P
+UniProtKB	Q3Z001	napA	involved_in	GO:0042128	nitrate assimilation	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000080092	300269	UniProt		P
+UniProtKB	Q3Z001	napA	enables	GO:0008940	nitrate reductase activity	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000080092	300269	UniProt		F
+UniProtKB	Q3Z001	napA	enables	GO:0009055	electron transfer activity	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000080092	300269	UniProt		F
+UniProtKB	Q3Z001	napA	involved_in	GO:0022900	electron transport chain	ECO:0000366	IEA	GO_REF:0000108	GO:0009055	300269	GOC		P
+UniProtKB	Q3Z005	napC	enables	GO:0020037	heme binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR011885|InterPro:IPR024717	300269	InterPro		F
+UniProtKB	Q3Z005	napC	involved_in	GO:0019333	denitrification pathway	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR011885|InterPro:IPR024717	300269	InterPro		P
+UniProtKB	Q3Z005	napC	located_in	GO:0016021	integral component of membrane	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR011885|InterPro:IPR024717	300269	InterPro		C
+UniProtKB	Q3Z005	napC	located_in	GO:0005886	plasma membrane	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-1003	300269	UniProt		C
+UniProtKB	Q3Z005	napC	enables	GO:0046872	metal ion binding	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0479	300269	UniProt		F
+UniProtKB	Q3Z005	napC	located_in	GO:0016020	membrane	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0472	300269	UniProt		C
+UniProtKB	Q3Z005	napC	located_in	GO:0016021	integral component of membrane	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0812	300269	UniProt		C
+UniProtKB	Q3Z005	napC	located_in	GO:0016020	membrane	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0162	300269	UniProt		C
+UniProtKB	Q3Z059	yeiA	located_in	GO:0005737	cytoplasm	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR005720	300269	InterPro		C
+UniProtKB	Q3Z059	yeiA	enables	GO:0017113	dihydropyrimidine dehydrogenase (NADP+) activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR044512	300269	InterPro		F
+UniProtKB	Q3Z059	yeiA	enables	GO:0016627	oxidoreductase activity, acting on the CH-CH group of donors	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR005720	300269	InterPro		F
+UniProtKB	Q3Z059	yeiA	enables	GO:0003824	catalytic activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR013785	300269	InterPro		F
+UniProtKB	Q3Z059	yeiA	involved_in	GO:0006212	uracil catabolic process	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR044512	300269	InterPro		P
+UniProtKB	Q3Z059	yeiA	involved_in	GO:0006210	thymine catabolic process	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR044512	300269	InterPro		P
+UniProtKB	Q3Z059	yeiA	enables	GO:0016491	oxidoreductase activity	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0560	300269	UniProt		F
+UniProtKB	Q3Z059	yeiA	enables	GO:0046872	metal ion binding	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0479	300269	UniProt		F
+UniProtKB	Q3Z059	yeiA	enables	GO:0051536	iron-sulfur cluster binding	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0411	300269	UniProt		F
+UniProtKB	Q3Z0G2	hisH	involved_in	GO:0000105	histidine biosynthetic process	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR010139	300269	InterPro		P
+UniProtKB	Q3Z0G2	hisH	enables	GO:0016763	transferase activity, transferring pentosyl groups	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR010139	300269	InterPro		F
+UniProtKB	Q3Z0G2	hisH	involved_in	GO:0000105	histidine biosynthetic process	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0368	300269	UniProt		P
+UniProtKB	Q3Z0G2	hisH	located_in	GO:0005737	cytoplasm	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0963	300269	UniProt		C
+UniProtKB	Q3Z0G2	hisH	enables	GO:0016787	hydrolase activity	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0378	300269	UniProt		F
+UniProtKB	Q3Z0G2	hisH	enables	GO:0016829	lyase activity	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0456	300269	UniProt		F
+UniProtKB	Q3Z0G2	hisH	involved_in	GO:0008652	cellular amino acid biosynthetic process	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0028	300269	UniProt		P
+UniProtKB	Q3Z0G2	hisH	involved_in	GO:0006541	glutamine metabolic process	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0315	300269	UniProt		P
+UniProtKB	Q3Z0G2	hisH	enables	GO:0004359	glutaminase activity	ECO:0000501	IEA	GO_REF:0000003	EC:3.5.1.2	300269	UniProt		F
+UniProtKB	Q3Z0G2	hisH	located_in	GO:0005737	cytoplasm	ECO:0000322	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0086	300269	UniProt		C
+UniProtKB	Q3Z0G2	hisH	enables	GO:0004359	glutaminase activity	ECO:0000256	IEA	GO_REF:0000116	RHEA:15889	300269	RHEA		F
+UniProtKB	Q3Z0G2	hisH	involved_in	GO:0000105	histidine biosynthetic process	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000083104	300269	UniProt		P
+UniProtKB	Q3Z0G2	hisH	located_in	GO:0005737	cytoplasm	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000083104	300269	UniProt		C
+UniProtKB	Q3Z0G2	hisH	enables	GO:0000107	imidazoleglycerol-phosphate synthase activity	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000083104	300269	UniProt		F
+UniProtKB	Q3Z0G2	hisH	involved_in	GO:0000105	histidine biosynthetic process	ECO:0000322	IEA	GO_REF:0000041	UniPathway:UPA00031	300269	UniProt		P
+UniProtKB	Q3Z0J6	pduC	enables	GO:0031419	cobalamin binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR003206|InterPro:IPR016176|InterPro:IPR036999	300269	InterPro		F
+UniProtKB	Q3Z0J6	pduC	enables	GO:0016836	hydro-lyase activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR003206|InterPro:IPR036999	300269	InterPro		F
+UniProtKB	Q3Z0J6	pduC	enables	GO:0003824	catalytic activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR016176	300269	InterPro		F
+UniProtKB	Q3Z0J6	pduC	enables	GO:0031419	cobalamin binding	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0846	300269	UniProt		F
+UniProtKB	Q3Z0J6	pduC	enables	GO:0016829	lyase activity	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0456	300269	UniProt		F
+UniProtKB	Q3Z0U3	narG	part_of	GO:0009325	nitrate reductase complex	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR006468	300269	InterPro		C
+UniProtKB	Q3Z0U3	narG	enables	GO:0016491	oxidoreductase activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR006655|InterPro:IPR006656|InterPro:IPR006657|InterPro:IPR006963	300269	InterPro		F
+UniProtKB	Q3Z0U3	narG	enables	GO:0043546	molybdopterin cofactor binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR006657	300269	InterPro		F
+UniProtKB	Q3Z0U3	narG	involved_in	GO:0042126	nitrate metabolic process	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR006468	300269	InterPro		P
+UniProtKB	Q3Z0U3	narG	enables	GO:0051539	4 iron, 4 sulfur cluster binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR027467	300269	InterPro		F
+UniProtKB	Q3Z0U3	narG	enables	GO:0008940	nitrate reductase activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR006468	300269	InterPro		F
+UniProtKB	Q3Z0U3	narG	located_in	GO:0005886	plasma membrane	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-1003	300269	UniProt		C
+UniProtKB	Q3Z0U3	narG	enables	GO:0046872	metal ion binding	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0479	300269	UniProt		F
+UniProtKB	Q3Z0U3	narG	enables	GO:0051536	iron-sulfur cluster binding	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0411	300269	UniProt		F
+UniProtKB	Q3Z0U3	narG	located_in	GO:0005886	plasma membrane	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0039	300269	UniProt		C
+UniProtKB	Q3Z0U3	narG	located_in	GO:0016020	membrane	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0162	300269	UniProt		C
+UniProtKB	Q3Z0U5	narJ	involved_in	GO:0051131	chaperone-mediated protein complex assembly	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR003765	300269	InterPro		P
+UniProtKB	Q3Z0U5	narJ	enables	GO:0051082	unfolded protein binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR003765	300269	InterPro		F
+UniProtKB	Q3Z0U5	narJ	involved_in	GO:0042128	nitrate assimilation	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0534	300269	UniProt		P
+UniProtKB	Q3Z108	trpA	enables	GO:0004834	tryptophan synthase activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR002028|InterPro:IPR018204	300269	InterPro		F
+UniProtKB	Q3Z108	trpA	enables	GO:0003824	catalytic activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR011060|InterPro:IPR013785	300269	InterPro		F
+UniProtKB	Q3Z108	trpA	involved_in	GO:0006568	tryptophan metabolic process	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR002028	300269	InterPro		P
+UniProtKB	Q3Z108	trpA	involved_in	GO:0000162	tryptophan biosynthetic process	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0822	300269	UniProt		P
+UniProtKB	Q3Z108	trpA	enables	GO:0016829	lyase activity	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0456	300269	UniProt		F
+UniProtKB	Q3Z108	trpA	involved_in	GO:0009073	aromatic amino acid family biosynthetic process	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0057	300269	UniProt		P
+UniProtKB	Q3Z108	trpA	involved_in	GO:0008652	cellular amino acid biosynthetic process	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0028	300269	UniProt		P
+UniProtKB	Q3Z108	trpA	enables	GO:0004834	tryptophan synthase activity	ECO:0000501	IEA	GO_REF:0000003	EC:4.2.1.20	300269	UniProt		F
+UniProtKB	Q3Z108	trpA	enables	GO:0004834	tryptophan synthase activity	ECO:0000256	IEA	GO_REF:0000116	RHEA:10532	300269	RHEA		F
+UniProtKB	Q3Z108	trpA	involved_in	GO:0000162	tryptophan biosynthetic process	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000102764	300269	UniProt		P
+UniProtKB	Q3Z108	trpA	enables	GO:0004834	tryptophan synthase activity	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000102764	300269	UniProt		F
+UniProtKB	Q3Z108	trpA	involved_in	GO:0000162	tryptophan biosynthetic process	ECO:0000322	IEA	GO_REF:0000041	UniPathway:UPA00035	300269	UniProt		P
+UniProtKB	Q3Z109	trpB	involved_in	GO:0000162	tryptophan biosynthetic process	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR023026	300269	InterPro		P
+UniProtKB	Q3Z109	trpB	enables	GO:0004834	tryptophan synthase activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR006653|InterPro:IPR006654|InterPro:IPR023026	300269	InterPro		F
+UniProtKB	Q3Z109	trpB	involved_in	GO:0006568	tryptophan metabolic process	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR006653|InterPro:IPR006654	300269	InterPro		P
+UniProtKB	Q3Z109	trpB	involved_in	GO:0000162	tryptophan biosynthetic process	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0822	300269	UniProt		P
+UniProtKB	Q3Z109	trpB	enables	GO:0016829	lyase activity	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0456	300269	UniProt		F
+UniProtKB	Q3Z109	trpB	involved_in	GO:0009073	aromatic amino acid family biosynthetic process	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0057	300269	UniProt		P
+UniProtKB	Q3Z109	trpB	involved_in	GO:0008652	cellular amino acid biosynthetic process	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0028	300269	UniProt		P
+UniProtKB	Q3Z109	trpB	enables	GO:0004834	tryptophan synthase activity	ECO:0000501	IEA	GO_REF:0000003	EC:4.2.1.20	300269	UniProt		F
+UniProtKB	Q3Z109	trpB	enables	GO:0004834	tryptophan synthase activity	ECO:0000256	IEA	GO_REF:0000116	RHEA:10532	300269	RHEA		F
+UniProtKB	Q3Z109	trpB	involved_in	GO:0000162	tryptophan biosynthetic process	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000102768	300269	UniProt		P
+UniProtKB	Q3Z109	trpB	enables	GO:0004834	tryptophan synthase activity	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000102768	300269	UniProt		F
+UniProtKB	Q3Z109	trpB	involved_in	GO:0000162	tryptophan biosynthetic process	ECO:0000322	IEA	GO_REF:0000041	UniPathway:UPA00035	300269	UniProt		P
+UniProtKB	Q3Z111	trpD	involved_in	GO:0000162	tryptophan biosynthetic process	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR005940	300269	InterPro		P
+UniProtKB	Q3Z111	trpD	enables	GO:0016757	transferase activity, transferring glycosyl groups	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR000312	300269	InterPro		F
+UniProtKB	Q3Z111	trpD	enables	GO:0004048	anthranilate phosphoribosyltransferase activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR005940	300269	InterPro		F
+UniProtKB	Q3Z111	trpD	involved_in	GO:0000162	tryptophan biosynthetic process	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0822	300269	UniProt		P
+UniProtKB	Q3Z111	trpD	enables	GO:0016740	transferase activity	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0808	300269	UniProt		F
+UniProtKB	Q3Z111	trpD	enables	GO:0016757	transferase activity, transferring glycosyl groups	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0328	300269	UniProt		F
+UniProtKB	Q3Z111	trpD	enables	GO:0046872	metal ion binding	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0479	300269	UniProt		F
+UniProtKB	Q3Z111	trpD	involved_in	GO:0009073	aromatic amino acid family biosynthetic process	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0057	300269	UniProt		P
+UniProtKB	Q3Z111	trpD	involved_in	GO:0008652	cellular amino acid biosynthetic process	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0028	300269	UniProt		P
+UniProtKB	Q3Z111	trpD	involved_in	GO:0006541	glutamine metabolic process	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0315	300269	UniProt		P
+UniProtKB	Q3Z111	trpD	enables	GO:0004048	anthranilate phosphoribosyltransferase activity	ECO:0000501	IEA	GO_REF:0000003	EC:2.4.2.18	300269	UniProt		F
+UniProtKB	Q3Z111	trpD	enables	GO:0004048	anthranilate phosphoribosyltransferase activity	ECO:0000256	IEA	GO_REF:0000116	RHEA:11768	300269	RHEA		F
+UniProtKB	Q3Z111	trpD	involved_in	GO:0000162	tryptophan biosynthetic process	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000035396	300269	UniProt		P
+UniProtKB	Q3Z111	trpD	enables	GO:0004048	anthranilate phosphoribosyltransferase activity	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000035396	300269	UniProt		F
+UniProtKB	Q3Z111	trpD	enables	GO:0000287	magnesium ion binding	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000035396	300269	UniProt		F
+UniProtKB	Q3Z111	trpD	involved_in	GO:0006541	glutamine metabolic process	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000415630	300269	UniProt		P
+UniProtKB	Q3Z111	trpD	involved_in	GO:0000162	tryptophan biosynthetic process	ECO:0000322	IEA	GO_REF:0000041	UniPathway:UPA00035	300269	UniProt		P
+UniProtKB	Q3Z112	trpE	enables	GO:0004049	anthranilate synthase activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR005257	300269	InterPro		F
+UniProtKB	Q3Z112	trpE	involved_in	GO:0009058	biosynthetic process	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR005257|InterPro:IPR005801|InterPro:IPR006805|InterPro:IPR019999	300269	InterPro		P
+UniProtKB	Q3Z112	trpE	involved_in	GO:0000162	tryptophan biosynthetic process	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0822	300269	UniProt		P
+UniProtKB	Q3Z112	trpE	enables	GO:0016829	lyase activity	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0456	300269	UniProt		F
+UniProtKB	Q3Z112	trpE	enables	GO:0046872	metal ion binding	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0479	300269	UniProt		F
+UniProtKB	Q3Z112	trpE	involved_in	GO:0009073	aromatic amino acid family biosynthetic process	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0057	300269	UniProt		P
+UniProtKB	Q3Z112	trpE	involved_in	GO:0008652	cellular amino acid biosynthetic process	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0028	300269	UniProt		P
+UniProtKB	Q3Z112	trpE	enables	GO:0004049	anthranilate synthase activity	ECO:0000501	IEA	GO_REF:0000003	EC:4.1.3.27	300269	UniProt		F
+UniProtKB	Q3Z112	trpE	enables	GO:0004049	anthranilate synthase activity	ECO:0000256	IEA	GO_REF:0000116	RHEA:21732	300269	RHEA		F
+UniProtKB	Q3Z112	trpE	involved_in	GO:0000162	tryptophan biosynthetic process	ECO:0000322	IEA	GO_REF:0000041	UniPathway:UPA00035	300269	UniProt		P
+UniProtKB	Q3Z1K9	narW	involved_in	GO:0051131	chaperone-mediated protein complex assembly	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR003765	300269	InterPro		P
+UniProtKB	Q3Z1K9	narW	enables	GO:0051082	unfolded protein binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR003765	300269	InterPro		F
+UniProtKB	Q3Z1K9	narW	involved_in	GO:0042128	nitrate assimilation	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0534	300269	UniProt		P
+UniProtKB	Q3Z1L8	fdnG	enables	GO:0008863	formate dehydrogenase (NAD+) activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR006443	300269	InterPro		F
+UniProtKB	Q3Z1L8	fdnG	enables	GO:0016491	oxidoreductase activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR006655|InterPro:IPR006656|InterPro:IPR006657|InterPro:IPR006963	300269	InterPro		F
+UniProtKB	Q3Z1L8	fdnG	enables	GO:0043546	molybdopterin cofactor binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR006443|InterPro:IPR006657	300269	InterPro		F
+UniProtKB	Q3Z1L8	fdnG	involved_in	GO:0045333	cellular respiration	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR006443	300269	InterPro		P
+UniProtKB	Q3Z1L8	fdnG	enables	GO:0047111	formate dehydrogenase (cytochrome-c-553) activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR006443	300269	InterPro		F
+UniProtKB	Q3Z1L8	fdnG	enables	GO:0051539	4 iron, 4 sulfur cluster binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR027467	300269	InterPro		F
+UniProtKB	Q3Z1L8	fdnG	enables	GO:0009055	electron transfer activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR006443	300269	InterPro		F
+UniProtKB	Q3Z1L8	fdnG	enables	GO:0016491	oxidoreductase activity	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0560	300269	UniProt		F
+UniProtKB	Q3Z1L8	fdnG	enables	GO:0046872	metal ion binding	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0479	300269	UniProt		F
+UniProtKB	Q3Z1L8	fdnG	enables	GO:0051536	iron-sulfur cluster binding	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0411	300269	UniProt		F
+UniProtKB	Q3Z1L8	fdnG	located_in	GO:0042597	periplasmic space	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0200	300269	UniProt		C
+UniProtKB	Q3Z1L8	fdnG	involved_in	GO:0022900	electron transport chain	ECO:0000366	IEA	GO_REF:0000108	GO:0009055	300269	GOC		P
+UniProtKB	Q3Z1M0	fdnI	involved_in	GO:0022904	respiratory electron transport chain	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR016174	300269	InterPro		P
+UniProtKB	Q3Z1M0	fdnI	part_of	GO:0009326	formate dehydrogenase complex	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR006471	300269	InterPro		C
+UniProtKB	Q3Z1M0	fdnI	enables	GO:0008863	formate dehydrogenase (NAD+) activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR006471	300269	InterPro		F
+UniProtKB	Q3Z1M0	fdnI	located_in	GO:0016020	membrane	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR016174	300269	InterPro		C
+UniProtKB	Q3Z1M0	fdnI	involved_in	GO:0045333	cellular respiration	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR006471	300269	InterPro		P
+UniProtKB	Q3Z1M0	fdnI	located_in	GO:0016021	integral component of membrane	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR006471|InterPro:IPR011577	300269	InterPro		C
+UniProtKB	Q3Z1M0	fdnI	enables	GO:0009055	electron transfer activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR011577	300269	InterPro		F
+UniProtKB	Q3Z1M0	fdnI	located_in	GO:0005886	plasma membrane	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-1003	300269	UniProt		C
+UniProtKB	Q3Z1M0	fdnI	located_in	GO:0016020	membrane	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0472	300269	UniProt		C
+UniProtKB	Q3Z1M0	fdnI	located_in	GO:0016021	integral component of membrane	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0812	300269	UniProt		C
+UniProtKB	Q3Z1M0	fdnI	located_in	GO:0016020	membrane	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0162	300269	UniProt		C
+UniProtKB	Q3Z232	sufE	involved_in	GO:0016226	iron-sulfur cluster assembly	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR023939	300269	InterPro		P
+UniProtKB	Q3Z232	sufE	involved_in	GO:0006790	sulfur compound metabolic process	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR023939	300269	InterPro		P
+UniProtKB	Q3Z232	sufE	located_in	GO:0005737	cytoplasm	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0963	300269	UniProt		C
+UniProtKB	Q3Z232	sufE	located_in	GO:0005737	cytoplasm	ECO:0000322	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0086	300269	UniProt		C
+UniProtKB	Q3Z232	sufE	located_in	GO:0005737	cytoplasm	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000085084	300269	UniProt		C
+UniProtKB	Q3Z233	sufS	enables	GO:0030170	pyridoxal phosphate binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR010970	300269	InterPro		F
+UniProtKB	Q3Z233	sufS	enables	GO:0031071	cysteine desulfurase activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR010970	300269	InterPro		F
+UniProtKB	Q3Z233	sufS	enables	GO:0003824	catalytic activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR015421|InterPro:IPR015422	300269	InterPro		F
+UniProtKB	Q3Z233	sufS	involved_in	GO:0006534	cysteine metabolic process	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR010970	300269	InterPro		P
+UniProtKB	Q3Z233	sufS	located_in	GO:0005737	cytoplasm	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0963	300269	UniProt		C
+UniProtKB	Q3Z233	sufS	enables	GO:0016740	transferase activity	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0808	300269	UniProt		F
+UniProtKB	Q3Z233	sufS	enables	GO:0016829	lyase activity	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0456	300269	UniProt		F
+UniProtKB	Q3Z233	sufS	enables	GO:0031071	cysteine desulfurase activity	ECO:0000501	IEA	GO_REF:0000003	EC:2.8.1.7	300269	UniProt		F
+UniProtKB	Q3Z233	sufS	enables	GO:0009000	selenocysteine lyase activity	ECO:0000501	IEA	GO_REF:0000003	EC:4.4.1.16	300269	UniProt		F
+UniProtKB	Q3Z233	sufS	located_in	GO:0005737	cytoplasm	ECO:0000322	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0086	300269	UniProt		C
+UniProtKB	Q3Z233	sufS	enables	GO:0031071	cysteine desulfurase activity	ECO:0000256	IEA	GO_REF:0000116	RHEA:43892	300269	RHEA		F
+UniProtKB	Q3Z233	sufS	enables	GO:0009000	selenocysteine lyase activity	ECO:0000256	IEA	GO_REF:0000116	RHEA:11632	300269	RHEA		F
+UniProtKB	Q3Z233	sufS	located_in	GO:0005737	cytoplasm	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000085079	300269	UniProt		C
+UniProtKB	Q3Z233	sufS	enables	GO:0031071	cysteine desulfurase activity	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000085079	300269	UniProt		F
+UniProtKB	Q3Z233	sufS	enables	GO:0009000	selenocysteine lyase activity	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000085079	300269	UniProt		F
+UniProtKB	Q3Z234	ynhC	involved_in	GO:0016226	iron-sulfur cluster assembly	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR000825|InterPro:IPR011542	300269	InterPro		P
+UniProtKB	Q3Z235	ynhD	enables	GO:0005524	ATP binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR003439|InterPro:IPR010230|InterPro:IPR017871	300269	InterPro		F
+UniProtKB	Q3Z235	ynhD	enables	GO:0042626	ATPase-coupled transmembrane transporter activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR017871	300269	InterPro		F
+UniProtKB	Q3Z235	ynhD	enables	GO:0005524	ATP binding	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0067	300269	UniProt		F
+UniProtKB	Q3Z235	ynhD	enables	GO:0000166	nucleotide binding	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0547	300269	UniProt		F
+UniProtKB	Q3Z235	ynhD	enables	GO:0005524	ATP binding	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000400038	300269	UniProt		F
+UniProtKB	Q3Z235	ynhD	enables	GO:0000166	nucleotide binding	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000400038	300269	UniProt		F
+UniProtKB	Q3Z235	ynhD	involved_in	GO:0055085	transmembrane transport	ECO:0000366	IEA	GO_REF:0000108	GO:0042626	300269	GOC		P
+UniProtKB	Q3Z236	ynhE	involved_in	GO:0016226	iron-sulfur cluster assembly	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR000825|InterPro:IPR010231	300269	InterPro		P
+UniProtKB	Q3Z261	pheT	enables	GO:0005524	ATP binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR004532|InterPro:IPR005147	300269	InterPro		F
+UniProtKB	Q3Z261	pheT	enables	GO:0004826	phenylalanine-tRNA ligase activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR004532|InterPro:IPR005146	300269	InterPro		F
+UniProtKB	Q3Z261	pheT	enables	GO:0003723	RNA binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR005146|InterPro:IPR005147	300269	InterPro		F
+UniProtKB	Q3Z261	pheT	enables	GO:0000049	tRNA binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR002547|InterPro:IPR033714	300269	InterPro		F
+UniProtKB	Q3Z261	pheT	enables	GO:0000287	magnesium ion binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR004532|InterPro:IPR005147	300269	InterPro		F
+UniProtKB	Q3Z261	pheT	involved_in	GO:0006432	phenylalanyl-tRNA aminoacylation	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR004532|InterPro:IPR005147	300269	InterPro		P
+UniProtKB	Q3Z261	pheT	enables	GO:0005524	ATP binding	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0067	300269	UniProt		F
+UniProtKB	Q3Z261	pheT	located_in	GO:0005737	cytoplasm	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0963	300269	UniProt		C
+UniProtKB	Q3Z261	pheT	enables	GO:0004812	aminoacyl-tRNA ligase activity	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0030	300269	UniProt		F
+UniProtKB	Q3Z261	pheT	enables	GO:0003723	RNA binding	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0694	300269	UniProt		F
+UniProtKB	Q3Z261	pheT	enables	GO:0000049	tRNA binding	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0820	300269	UniProt		F
+UniProtKB	Q3Z261	pheT	enables	GO:0016874	ligase activity	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0436	300269	UniProt		F
+UniProtKB	Q3Z261	pheT	enables	GO:0000166	nucleotide binding	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0547	300269	UniProt		F
+UniProtKB	Q3Z261	pheT	enables	GO:0046872	metal ion binding	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0479	300269	UniProt		F
+UniProtKB	Q3Z261	pheT	involved_in	GO:0006412	translation	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0648	300269	UniProt		P
+UniProtKB	Q3Z261	pheT	enables	GO:0004826	phenylalanine-tRNA ligase activity	ECO:0000501	IEA	GO_REF:0000003	EC:6.1.1.20	300269	UniProt		F
+UniProtKB	Q3Z261	pheT	located_in	GO:0005737	cytoplasm	ECO:0000322	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0086	300269	UniProt		C
+UniProtKB	Q3Z261	pheT	enables	GO:0004826	phenylalanine-tRNA ligase activity	ECO:0000256	IEA	GO_REF:0000116	RHEA:19413	300269	RHEA		F
+UniProtKB	Q3Z261	pheT	enables	GO:0005524	ATP binding	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000083118	300269	UniProt		F
+UniProtKB	Q3Z261	pheT	located_in	GO:0005737	cytoplasm	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000083118	300269	UniProt		C
+UniProtKB	Q3Z261	pheT	enables	GO:0004826	phenylalanine-tRNA ligase activity	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000083118	300269	UniProt		F
+UniProtKB	Q3Z261	pheT	enables	GO:0000287	magnesium ion binding	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000083118	300269	UniProt		F
+UniProtKB	Q3Z261	pheT	involved_in	GO:0006432	phenylalanyl-tRNA aminoacylation	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000083118	300269	UniProt		P
+UniProtKB	Q3Z2P8	bisZ	enables	GO:0016491	oxidoreductase activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR006655|InterPro:IPR006656|InterPro:IPR006657|InterPro:IPR006658	300269	InterPro		F
+UniProtKB	Q3Z2P8	bisZ	enables	GO:0043546	molybdopterin cofactor binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR006657	300269	InterPro		F
+UniProtKB	Q3Z2P8	bisZ	enables	GO:0046872	metal ion binding	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0479	300269	UniProt		F
+UniProtKB	Q3Z2W3	dsbB	located_in	GO:0016021	integral component of membrane	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR003752	300269	InterPro		C
+UniProtKB	Q3Z2W3	dsbB	involved_in	GO:0006457	protein folding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR003752	300269	InterPro		P
+UniProtKB	Q3Z2W3	dsbB	enables	GO:0015035	protein-disulfide reductase activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR003752	300269	InterPro		F
+UniProtKB	Q3Z2W3	dsbB	enables	GO:0016491	oxidoreductase activity	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0560	300269	UniProt		F
+UniProtKB	Q3Z2W3	dsbB	located_in	GO:0005886	plasma membrane	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-1003	300269	UniProt		C
+UniProtKB	Q3Z2W3	dsbB	located_in	GO:0005886	plasma membrane	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0997	300269	UniProt		C
+UniProtKB	Q3Z2W3	dsbB	located_in	GO:0016020	membrane	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0472	300269	UniProt		C
+UniProtKB	Q3Z2W3	dsbB	located_in	GO:0016021	integral component of membrane	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0812	300269	UniProt		C
+UniProtKB	Q3Z2W3	dsbB	located_in	GO:0005886	plasma membrane	ECO:0000322	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0037	300269	UniProt		C
+UniProtKB	Q3Z2W3	dsbB	located_in	GO:0005886	plasma membrane	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000083131	300269	UniProt		C
+UniProtKB	Q3Z2W3	dsbB	enables	GO:0009055	electron transfer activity	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000083131	300269	UniProt		F
+UniProtKB	Q3Z2W3	dsbB	enables	GO:0015035	protein-disulfide reductase activity	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000083131	300269	UniProt		F
+UniProtKB	Q3Z2W3	dsbB	involved_in	GO:0022900	electron transport chain	ECO:0000366	IEA	GO_REF:0000108	GO:0009055	300269	GOC		P
+UniProtKB	Q3Z323	acpP	involved_in	GO:0006633	fatty acid biosynthetic process	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR003231	300269	InterPro		P
+UniProtKB	Q3Z323	acpP	located_in	GO:0005737	cytoplasm	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0963	300269	UniProt		C
+UniProtKB	Q3Z323	acpP	involved_in	GO:0006633	fatty acid biosynthetic process	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0275	300269	UniProt		P
+UniProtKB	Q3Z323	acpP	involved_in	GO:0006631	fatty acid metabolic process	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0276	300269	UniProt		P
+UniProtKB	Q3Z323	acpP	involved_in	GO:0006629	lipid metabolic process	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0443	300269	UniProt		P
+UniProtKB	Q3Z323	acpP	located_in	GO:0005737	cytoplasm	ECO:0000322	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0086	300269	UniProt		C
+UniProtKB	Q3Z323	acpP	located_in	GO:0005737	cytoplasm	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000101233	300269	UniProt		C
+UniProtKB	Q3Z323	acpP	enables	GO:0000036	acyl carrier activity	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000101233	300269	UniProt		F
+UniProtKB	Q3Z323	acpP	involved_in	GO:0006633	fatty acid biosynthetic process	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000101233	300269	UniProt		P
+UniProtKB	Q3Z323	acpP	involved_in	GO:0006633	fatty acid biosynthetic process	ECO:0000322	IEA	GO_REF:0000041	UniPathway:UPA00094	300269	UniProt		P
+UniProtKB	Q3Z325	fabD	enables	GO:0016740	transferase activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001227	300269	InterPro		F
+UniProtKB	Q3Z325	fabD	enables	GO:0004314	[acyl-carrier-protein] S-malonyltransferase activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR004410	300269	InterPro		F
+UniProtKB	Q3Z325	fabD	enables	GO:0016740	transferase activity	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0808	300269	UniProt		F
+UniProtKB	Q3Z325	fabD	enables	GO:0016746	transferase activity, transferring acyl groups	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0012	300269	UniProt		F
+UniProtKB	Q3Z325	fabD	enables	GO:0016419	S-malonyltransferase activity	ECO:0000501	IEA	GO_REF:0000003	EC:2.3.1.39	300269	UniProt		F
+UniProtKB	Q3Z325	fabD	enables	GO:0004314	[acyl-carrier-protein] S-malonyltransferase activity	ECO:0000501	IEA	GO_REF:0000003	EC:2.3.1.39	300269	UniProt		F
+UniProtKB	Q3Z325	fabD	involved_in	GO:0006633	fatty acid biosynthetic process	ECO:0000322	IEA	GO_REF:0000041	UniPathway:UPA00094	300269	UniProt		P
+UniProtKB	Q3Z327	plsX	enables	GO:0016747	transferase activity, transferring acyl groups other than amino-acyl groups	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR003664	300269	InterPro		F
+UniProtKB	Q3Z327	plsX	enables	GO:0003824	catalytic activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR003664	300269	InterPro		F
+UniProtKB	Q3Z327	plsX	involved_in	GO:0006633	fatty acid biosynthetic process	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR003664|InterPro:IPR012281	300269	InterPro		P
+UniProtKB	Q3Z327	plsX	located_in	GO:0005737	cytoplasm	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0963	300269	UniProt		C
+UniProtKB	Q3Z327	plsX	enables	GO:0016740	transferase activity	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0808	300269	UniProt		F
+UniProtKB	Q3Z327	plsX	involved_in	GO:0008654	phospholipid biosynthetic process	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0594	300269	UniProt		P
+UniProtKB	Q3Z327	plsX	involved_in	GO:0006629	lipid metabolic process	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0443	300269	UniProt		P
+UniProtKB	Q3Z327	plsX	located_in	GO:0005737	cytoplasm	ECO:0000322	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0086	300269	UniProt		C
+UniProtKB	Q3Z327	plsX	enables	GO:0043811	phosphate:acyl-[acyl carrier protein] acyltransferase activity	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000037494	300269	UniProt		F
+UniProtKB	Q3Z327	plsX	involved_in	GO:0006644	phospholipid metabolic process	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000037494	300269	UniProt		P
+UniProtKB	Q3Z327	plsX	involved_in	GO:0006633	fatty acid biosynthetic process	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000037494	300269	UniProt		P
+UniProtKB	Q3Z327	plsX	involved_in	GO:0006644	phospholipid metabolic process	ECO:0000322	IEA	GO_REF:0000041	UniPathway:UPA00085	300269	UniProt		P
+UniProtKB	Q3Z347	mviN	involved_in	GO:0009252	peptidoglycan biosynthetic process	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0573	300269	UniProt		P
+UniProtKB	Q3Z347	mviN	located_in	GO:0005886	plasma membrane	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-1003	300269	UniProt		C
+UniProtKB	Q3Z347	mviN	located_in	GO:0005886	plasma membrane	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0997	300269	UniProt		C
+UniProtKB	Q3Z347	mviN	involved_in	GO:0071555	cell wall organization	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0961	300269	UniProt		P
+UniProtKB	Q3Z347	mviN	involved_in	GO:0008360	regulation of cell shape	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0133	300269	UniProt		P
+UniProtKB	Q3Z347	mviN	located_in	GO:0016020	membrane	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0472	300269	UniProt		C
+UniProtKB	Q3Z347	mviN	located_in	GO:0016021	integral component of membrane	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0812	300269	UniProt		C
+UniProtKB	Q3Z347	mviN	located_in	GO:0005886	plasma membrane	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0037	300269	UniProt		C
+UniProtKB	Q3Z347	mviN	located_in	GO:0016020	membrane	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0162	300269	UniProt		C
+UniProtKB	Q3Z347	mviN	enables	GO:0015648	lipid-linked peptidoglycan transporter activity	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000432258	300269	UniProt		F
+UniProtKB	Q3Z347	mviN	involved_in	GO:0009252	peptidoglycan biosynthetic process	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000120525	300269	UniProt		P
+UniProtKB	Q3Z347	mviN	involved_in	GO:0009252	peptidoglycan biosynthetic process	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000432258	300269	UniProt		P
+UniProtKB	Q3Z347	mviN	located_in	GO:0005887	integral component of plasma membrane	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000432258	300269	UniProt		C
+UniProtKB	Q3Z347	mviN	involved_in	GO:0015836	lipid-linked peptidoglycan transport	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000432258	300269	UniProt		P
+UniProtKB	Q3Z347	mviN	located_in	GO:0016021	integral component of membrane	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000120525	300269	UniProt		C
+UniProtKB	Q3Z347	mviN	involved_in	GO:0009252	peptidoglycan biosynthetic process	ECO:0000322	IEA	GO_REF:0000041	UniPathway:UPA00219	300269	UniProt		P
+UniProtKB	Q3Z3E3	appB	located_in	GO:0016020	membrane	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR003317	300269	InterPro		C
+UniProtKB	Q3Z3E3	appB	located_in	GO:0005886	plasma membrane	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-1003	300269	UniProt		C
+UniProtKB	Q3Z3E3	appB	located_in	GO:0016020	membrane	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0472	300269	UniProt		C
+UniProtKB	Q3Z3E3	appB	located_in	GO:0016021	integral component of membrane	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0812	300269	UniProt		C
+UniProtKB	Q3Z3E3	appB	located_in	GO:0016020	membrane	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0162	300269	UniProt		C
+UniProtKB	Q3Z3E4	appC	part_of	GO:0070069	cytochrome complex	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR002585	300269	InterPro		C
+UniProtKB	Q3Z3E4	appC	involved_in	GO:0019646	aerobic electron transport chain	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR002585	300269	InterPro		P
+UniProtKB	Q3Z3E4	appC	enables	GO:0009055	electron transfer activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR002585	300269	InterPro		F
+UniProtKB	Q3Z3E4	appC	located_in	GO:0005886	plasma membrane	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-1003	300269	UniProt		C
+UniProtKB	Q3Z3E4	appC	enables	GO:0046872	metal ion binding	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0479	300269	UniProt		F
+UniProtKB	Q3Z3E4	appC	located_in	GO:0016020	membrane	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0472	300269	UniProt		C
+UniProtKB	Q3Z3E4	appC	located_in	GO:0016021	integral component of membrane	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0812	300269	UniProt		C
+UniProtKB	Q3Z3E4	appC	located_in	GO:0005886	plasma membrane	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0037	300269	UniProt		C
+UniProtKB	Q3Z3E4	appC	located_in	GO:0016020	membrane	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0162	300269	UniProt		C
+UniProtKB	Q3Z3E4	appC	part_of	GO:0070069	cytochrome complex	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000956787	300269	UniProt		C
+UniProtKB	Q3Z3E4	appC	located_in	GO:0005886	plasma membrane	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000956787	300269	UniProt		C
+UniProtKB	Q3Z3E4	appC	enables	GO:0046872	metal ion binding	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000956787	300269	UniProt		F
+UniProtKB	Q3Z3E4	appC	enables	GO:0009055	electron transfer activity	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000956787	300269	UniProt		F
+UniProtKB	Q3Z3L9	pflB	located_in	GO:0005737	cytoplasm	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR005949	300269	InterPro		C
+UniProtKB	Q3Z3L9	pflB	enables	GO:0008861	formate C-acetyltransferase activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR005949	300269	InterPro		F
+UniProtKB	Q3Z3L9	pflB	enables	GO:0003824	catalytic activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001150|InterPro:IPR004184	300269	InterPro		F
+UniProtKB	Q3Z3L9	pflB	involved_in	GO:0005975	carbohydrate metabolic process	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR005949	300269	InterPro		P
+UniProtKB	Q3Z3L9	pflB	located_in	GO:0005737	cytoplasm	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0963	300269	UniProt		C
+UniProtKB	Q3Z3L9	pflB	enables	GO:0016740	transferase activity	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0808	300269	UniProt		F
+UniProtKB	Q3Z3L9	pflB	enables	GO:0016746	transferase activity, transferring acyl groups	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0012	300269	UniProt		F
+UniProtKB	Q3Z3L9	pflB	enables	GO:0008861	formate C-acetyltransferase activity	ECO:0000501	IEA	GO_REF:0000003	EC:2.3.1.54	300269	UniProt		F
+UniProtKB	Q3Z3L9	pflB	located_in	GO:0005737	cytoplasm	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0086	300269	UniProt		C
+UniProtKB	Q3Z3L9	pflB	enables	GO:0008861	formate C-acetyltransferase activity	ECO:0000256	IEA	GO_REF:0000116	RHEA:11844	300269	RHEA		F
+UniProtKB	Q3Z3M4	dmsC	involved_in	GO:0019645	anaerobic electron transport chain	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR007059	300269	InterPro		P
+UniProtKB	Q3Z3M4	dmsC	located_in	GO:0016021	integral component of membrane	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR007059	300269	InterPro		C
+UniProtKB	Q3Z3M4	dmsC	located_in	GO:0016020	membrane	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0472	300269	UniProt		C
+UniProtKB	Q3Z3M4	dmsC	located_in	GO:0016021	integral component of membrane	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0812	300269	UniProt		C
+UniProtKB	Q3Z3N3	cydD	enables	GO:0005524	ATP binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR003439|InterPro:IPR011527|InterPro:IPR014216|InterPro:IPR017871|InterPro:IPR036640	300269	InterPro		F
+UniProtKB	Q3Z3N3	cydD	enables	GO:0042626	ATPase-coupled transmembrane transporter activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR011527|InterPro:IPR017871	300269	InterPro		F
+UniProtKB	Q3Z3N3	cydD	located_in	GO:0016020	membrane	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR014216	300269	InterPro		C
+UniProtKB	Q3Z3N3	cydD	located_in	GO:0016021	integral component of membrane	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR011527|InterPro:IPR036640	300269	InterPro		C
+UniProtKB	Q3Z3N3	cydD	involved_in	GO:0042883	cysteine transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR014216	300269	InterPro		P
+UniProtKB	Q3Z3N3	cydD	involved_in	GO:0055085	transmembrane transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR011527	300269	InterPro		P
+UniProtKB	Q3Z3N3	cydD	enables	GO:0005524	ATP binding	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0067	300269	UniProt		F
+UniProtKB	Q3Z3N3	cydD	enables	GO:0000166	nucleotide binding	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0547	300269	UniProt		F
+UniProtKB	Q3Z3N3	cydD	located_in	GO:0016020	membrane	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0472	300269	UniProt		C
+UniProtKB	Q3Z3N3	cydD	located_in	GO:0016021	integral component of membrane	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0812	300269	UniProt		C
+UniProtKB	Q3Z3N3	cydD	located_in	GO:0016020	membrane	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0162	300269	UniProt		C
+UniProtKB	Q3Z3N3	cydD	enables	GO:0005524	ATP binding	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000400038	300269	UniProt		F
+UniProtKB	Q3Z3N3	cydD	enables	GO:0000166	nucleotide binding	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000400038	300269	UniProt		F
+UniProtKB	Q3Z3N4	cydC	enables	GO:0005524	ATP binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR003439|InterPro:IPR011527|InterPro:IPR017871|InterPro:IPR036640	300269	InterPro		F
+UniProtKB	Q3Z3N4	cydC	involved_in	GO:0034775	glutathione transmembrane transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR014223	300269	InterPro		P
+UniProtKB	Q3Z3N4	cydC	enables	GO:0042626	ATPase-coupled transmembrane transporter activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR011527|InterPro:IPR014223|InterPro:IPR017871	300269	InterPro		F
+UniProtKB	Q3Z3N4	cydC	involved_in	GO:0045454	cell redox homeostasis	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR014223	300269	InterPro		P
+UniProtKB	Q3Z3N4	cydC	located_in	GO:0016021	integral component of membrane	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR011527|InterPro:IPR014223|InterPro:IPR036640	300269	InterPro		C
+UniProtKB	Q3Z3N4	cydC	involved_in	GO:0055085	transmembrane transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR011527	300269	InterPro		P
+UniProtKB	Q3Z3N4	cydC	enables	GO:0005524	ATP binding	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0067	300269	UniProt		F
+UniProtKB	Q3Z3N4	cydC	enables	GO:0000166	nucleotide binding	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0547	300269	UniProt		F
+UniProtKB	Q3Z3N4	cydC	located_in	GO:0016020	membrane	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0472	300269	UniProt		C
+UniProtKB	Q3Z3N4	cydC	located_in	GO:0016021	integral component of membrane	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0812	300269	UniProt		C
+UniProtKB	Q3Z3N4	cydC	enables	GO:0005524	ATP binding	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000400038	300269	UniProt		F
+UniProtKB	Q3Z3N4	cydC	enables	GO:0000166	nucleotide binding	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000400038	300269	UniProt		F
+UniProtKB	Q3Z3T5	grxA	involved_in	GO:0045454	cell redox homeostasis	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR011902	300269	InterPro		P
+UniProtKB	Q3Z3T5	grxA	enables	GO:0009055	electron transfer activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR011767|InterPro:IPR011902	300269	InterPro		F
+UniProtKB	Q3Z3T5	grxA	enables	GO:0015035	protein-disulfide reductase activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR002109|InterPro:IPR011902	300269	InterPro		F
+UniProtKB	Q3Z3T5	grxA	involved_in	GO:0009263	deoxyribonucleotide biosynthetic process	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0215	300269	UniProt		P
+UniProtKB	Q3Z3T5	grxA	involved_in	GO:0022900	electron transport chain	ECO:0000366	IEA	GO_REF:0000108	GO:0009055	300269	GOC		P
+UniProtKB	Q3Z3V1	gsiD	located_in	GO:0016020	membrane	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR000515	300269	InterPro		C
+UniProtKB	Q3Z3V1	gsiD	involved_in	GO:0055085	transmembrane transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR000515	300269	InterPro		P
+UniProtKB	Q3Z3V1	gsiD	located_in	GO:0005886	plasma membrane	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0997	300269	UniProt		C
+UniProtKB	Q3Z3V1	gsiD	located_in	GO:0005886	plasma membrane	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-1003	300269	UniProt		C
+UniProtKB	Q3Z3V1	gsiD	located_in	GO:0016020	membrane	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0472	300269	UniProt		C
+UniProtKB	Q3Z3V1	gsiD	located_in	GO:0016021	integral component of membrane	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0812	300269	UniProt		C
+UniProtKB	Q3Z3V1	gsiD	located_in	GO:0005886	plasma membrane	ECO:0000322	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0037	300269	UniProt		C
+UniProtKB	Q3Z3V2	gsiC	located_in	GO:0016020	membrane	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR000515	300269	InterPro		C
+UniProtKB	Q3Z3V2	gsiC	involved_in	GO:0055085	transmembrane transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR000515	300269	InterPro		P
+UniProtKB	Q3Z3V2	gsiC	located_in	GO:0005886	plasma membrane	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0997	300269	UniProt		C
+UniProtKB	Q3Z3V2	gsiC	located_in	GO:0005886	plasma membrane	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-1003	300269	UniProt		C
+UniProtKB	Q3Z3V2	gsiC	located_in	GO:0016020	membrane	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0472	300269	UniProt		C
+UniProtKB	Q3Z3V2	gsiC	located_in	GO:0016021	integral component of membrane	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0812	300269	UniProt		C
+UniProtKB	Q3Z3V2	gsiC	located_in	GO:0005886	plasma membrane	ECO:0000322	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0037	300269	UniProt		C
+UniProtKB	Q3Z3V3	gsiB	part_of	GO:0043190	ATP-binding cassette (ABC) transporter complex	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR030678	300269	InterPro		C
+UniProtKB	Q3Z3V3	gsiB	involved_in	GO:0055085	transmembrane transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR030678	300269	InterPro		P
+UniProtKB	Q3Z3V3	gsiB	located_in	GO:0042597	periplasmic space	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0574	300269	UniProt		C
+UniProtKB	Q3Z3V3	gsiB	located_in	GO:0042597	periplasmic space	ECO:0000322	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0200	300269	UniProt		C
+UniProtKB	Q3Z3V4	gsiA	enables	GO:0005524	ATP binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR003439|InterPro:IPR013563|InterPro:IPR017871	300269	InterPro		F
+UniProtKB	Q3Z3V4	gsiA	involved_in	GO:0015833	peptide transport	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR013563	300269	InterPro		P
+UniProtKB	Q3Z3V4	gsiA	enables	GO:0042626	ATPase-coupled transmembrane transporter activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR017871	300269	InterPro		F
+UniProtKB	Q3Z3V4	gsiA	enables	GO:0000166	nucleotide binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR013563	300269	InterPro		F
+UniProtKB	Q3Z3V4	gsiA	enables	GO:0005524	ATP binding	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0067	300269	UniProt		F
+UniProtKB	Q3Z3V4	gsiA	enables	GO:0016787	hydrolase activity	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0378	300269	UniProt		F
+UniProtKB	Q3Z3V4	gsiA	enables	GO:0000166	nucleotide binding	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0547	300269	UniProt		F
+UniProtKB	Q3Z3V4	gsiA	located_in	GO:0005886	plasma membrane	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0997	300269	UniProt		C
+UniProtKB	Q3Z3V4	gsiA	located_in	GO:0005886	plasma membrane	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-1003	300269	UniProt		C
+UniProtKB	Q3Z3V4	gsiA	located_in	GO:0016020	membrane	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0472	300269	UniProt		C
+UniProtKB	Q3Z3V4	gsiA	located_in	GO:0005886	plasma membrane	ECO:0000322	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0037	300269	UniProt		C
+UniProtKB	Q3Z3V4	gsiA	involved_in	GO:0055085	transmembrane transport	ECO:0000366	IEA	GO_REF:0000108	GO:0042626	300269	GOC		P
+UniProtKB	Q3Z403	moaA	part_of	GO:0019008	molybdopterin synthase complex	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR010505	300269	InterPro		C
+UniProtKB	Q3Z403	moaA	enables	GO:0003824	catalytic activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR000385|InterPro:IPR006638|InterPro:IPR007197|InterPro:IPR013785	300269	InterPro		F
+UniProtKB	Q3Z403	moaA	involved_in	GO:0006777	Mo-molybdopterin cofactor biosynthetic process	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR010505|InterPro:IPR013483	300269	InterPro		P
+UniProtKB	Q3Z403	moaA	enables	GO:0046872	metal ion binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR000385|InterPro:IPR013483	300269	InterPro		F
+UniProtKB	Q3Z403	moaA	enables	GO:0051536	iron-sulfur cluster binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR006638|InterPro:IPR007197	300269	InterPro		F
+UniProtKB	Q3Z403	moaA	enables	GO:0051539	4 iron, 4 sulfur cluster binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR000385|InterPro:IPR010505	300269	InterPro		F
+UniProtKB	Q3Z403	moaA	enables	GO:0005525	GTP binding	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0342	300269	UniProt		F
+UniProtKB	Q3Z403	moaA	enables	GO:0016829	lyase activity	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0456	300269	UniProt		F
+UniProtKB	Q3Z403	moaA	enables	GO:0000166	nucleotide binding	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0547	300269	UniProt		F
+UniProtKB	Q3Z403	moaA	enables	GO:0046872	metal ion binding	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0479	300269	UniProt		F
+UniProtKB	Q3Z403	moaA	enables	GO:0051536	iron-sulfur cluster binding	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0411	300269	UniProt		F
+UniProtKB	Q3Z403	moaA	enables	GO:0051539	4 iron, 4 sulfur cluster binding	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0004	300269	UniProt		F
+UniProtKB	Q3Z403	moaA	involved_in	GO:0006777	Mo-molybdopterin cofactor biosynthetic process	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0501	300269	UniProt		P
+UniProtKB	Q3Z403	moaA	enables	GO:0061798	GTP 3',8'-cyclase activity	ECO:0000501	IEA	GO_REF:0000003	EC:4.1.99.22	300269	UniProt		F
+UniProtKB	Q3Z403	moaA	enables	GO:0061798	GTP 3',8'-cyclase activity	ECO:0000256	IEA	GO_REF:0000116	RHEA:49576	300269	RHEA		F
+UniProtKB	Q3Z403	moaA	enables	GO:0005525	GTP binding	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000101305	300269	UniProt		F
+UniProtKB	Q3Z403	moaA	enables	GO:0061798	GTP 3',8'-cyclase activity	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000101305	300269	UniProt		F
+UniProtKB	Q3Z403	moaA	enables	GO:1904047	S-adenosyl-L-methionine binding	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000101305	300269	UniProt		F
+UniProtKB	Q3Z403	moaA	involved_in	GO:0006777	Mo-molybdopterin cofactor biosynthetic process	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000101305	300269	UniProt		P
+UniProtKB	Q3Z403	moaA	enables	GO:0051539	4 iron, 4 sulfur cluster binding	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000101305	300269	UniProt		F
+UniProtKB	Q3Z470	cydB	located_in	GO:0016020	membrane	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR003317	300269	InterPro		C
+UniProtKB	Q3Z470	cydB	located_in	GO:0005886	plasma membrane	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-1003	300269	UniProt		C
+UniProtKB	Q3Z470	cydB	located_in	GO:0016020	membrane	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0472	300269	UniProt		C
+UniProtKB	Q3Z470	cydB	located_in	GO:0016021	integral component of membrane	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0812	300269	UniProt		C
+UniProtKB	Q3Z470	cydB	located_in	GO:0016020	membrane	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0162	300269	UniProt		C
+UniProtKB	Q3Z471	cydA	part_of	GO:0070069	cytochrome complex	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR002585	300269	InterPro		C
+UniProtKB	Q3Z471	cydA	involved_in	GO:0019646	aerobic electron transport chain	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR002585	300269	InterPro		P
+UniProtKB	Q3Z471	cydA	enables	GO:0009055	electron transfer activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR002585	300269	InterPro		F
+UniProtKB	Q3Z471	cydA	located_in	GO:0005886	plasma membrane	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-1003	300269	UniProt		C
+UniProtKB	Q3Z471	cydA	enables	GO:0046872	metal ion binding	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0479	300269	UniProt		F
+UniProtKB	Q3Z471	cydA	located_in	GO:0016020	membrane	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0472	300269	UniProt		C
+UniProtKB	Q3Z471	cydA	located_in	GO:0016021	integral component of membrane	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0812	300269	UniProt		C
+UniProtKB	Q3Z471	cydA	located_in	GO:0005886	plasma membrane	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0037	300269	UniProt		C
+UniProtKB	Q3Z471	cydA	located_in	GO:0016020	membrane	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0162	300269	UniProt		C
+UniProtKB	Q3Z471	cydA	part_of	GO:0070069	cytochrome complex	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000956787	300269	UniProt		C
+UniProtKB	Q3Z471	cydA	located_in	GO:0005886	plasma membrane	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000956787	300269	UniProt		C
+UniProtKB	Q3Z471	cydA	enables	GO:0046872	metal ion binding	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000956787	300269	UniProt		F
+UniProtKB	Q3Z471	cydA	enables	GO:0009055	electron transfer activity	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000956787	300269	UniProt		F
+UniProtKB	Q3Z475	sucD	enables	GO:0003824	catalytic activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR005810|InterPro:IPR005811	300269	InterPro		F
+UniProtKB	Q3Z475	sucD	enables	GO:0016874	ligase activity	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0436	300269	UniProt		F
+UniProtKB	Q3Z475	sucD	enables	GO:0000166	nucleotide binding	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0547	300269	UniProt		F
+UniProtKB	Q3Z475	sucD	involved_in	GO:0006099	tricarboxylic acid cycle	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0816	300269	UniProt		P
+UniProtKB	Q3Z475	sucD	enables	GO:0004775	succinate-CoA ligase (ADP-forming) activity	ECO:0000501	IEA	GO_REF:0000003	EC:6.2.1.5	300269	UniProt		F
+UniProtKB	Q3Z475	sucD	enables	GO:0004775	succinate-CoA ligase (ADP-forming) activity	ECO:0000256	IEA	GO_REF:0000116	RHEA:17661	300269	RHEA		F
+UniProtKB	Q3Z475	sucD	enables	GO:0004775	succinate-CoA ligase (ADP-forming) activity	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000403795	300269	UniProt		F
+UniProtKB	Q3Z475	sucD	involved_in	GO:0006099	tricarboxylic acid cycle	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000403795	300269	UniProt		P
+UniProtKB	Q3Z475	sucD	involved_in	GO:0006099	tricarboxylic acid cycle	ECO:0000322	IEA	GO_REF:0000041	UniPathway:UPA00223	300269	UniProt		P
+UniProtKB	Q3Z478	sucA	enables	GO:0030976	thiamine pyrophosphate binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR011603	300269	InterPro		F
+UniProtKB	Q3Z478	sucA	enables	GO:0004591	oxoglutarate dehydrogenase (succinyl-transferring) activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR011603	300269	InterPro		F
+UniProtKB	Q3Z478	sucA	enables	GO:0016624	oxidoreductase activity, acting on the aldehyde or oxo group of donors, disulfide as acceptor	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001017	300269	InterPro		F
+UniProtKB	Q3Z478	sucA	involved_in	GO:0006099	tricarboxylic acid cycle	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR011603	300269	InterPro		P
+UniProtKB	Q3Z478	sucA	enables	GO:0016491	oxidoreductase activity	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0560	300269	UniProt		F
+UniProtKB	Q3Z478	sucA	enables	GO:0004591	oxoglutarate dehydrogenase (succinyl-transferring) activity	ECO:0000501	IEA	GO_REF:0000003	EC:1.2.4.2	300269	UniProt		F
+UniProtKB	Q3Z480	sdhB	enables	GO:0016491	oxidoreductase activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR004489	300269	InterPro		F
+UniProtKB	Q3Z480	sdhB	involved_in	GO:0006099	tricarboxylic acid cycle	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR004489	300269	InterPro		P
+UniProtKB	Q3Z480	sdhB	enables	GO:0051536	iron-sulfur cluster binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001041|InterPro:IPR009051|InterPro:IPR025192|InterPro:IPR036010	300269	InterPro		F
+UniProtKB	Q3Z480	sdhB	enables	GO:0009055	electron transfer activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001041|InterPro:IPR025192|InterPro:IPR036010	300269	InterPro		F
+UniProtKB	Q3Z480	sdhB	involved_in	GO:0006099	tricarboxylic acid cycle	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0816	300269	UniProt		P
+UniProtKB	Q3Z480	sdhB	enables	GO:0046872	metal ion binding	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0479	300269	UniProt		F
+UniProtKB	Q3Z480	sdhB	enables	GO:0051536	iron-sulfur cluster binding	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0411	300269	UniProt		F
+UniProtKB	Q3Z480	sdhB	enables	GO:0051537	2 iron, 2 sulfur cluster binding	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0001	300269	UniProt		F
+UniProtKB	Q3Z480	sdhB	enables	GO:0051538	3 iron, 4 sulfur cluster binding	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0003	300269	UniProt		F
+UniProtKB	Q3Z480	sdhB	enables	GO:0051539	4 iron, 4 sulfur cluster binding	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0004	300269	UniProt		F
+UniProtKB	Q3Z480	sdhB	enables	GO:0008177	succinate dehydrogenase (ubiquinone) activity	ECO:0000501	IEA	GO_REF:0000003	EC:1.3.5.1	300269	UniProt		F
+UniProtKB	Q3Z480	sdhB	involved_in	GO:0022900	electron transport chain	ECO:0000366	IEA	GO_REF:0000108	GO:0009055	300269	GOC		P
+UniProtKB	Q3Z4B6	fldA	enables	GO:0009055	electron transfer activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001226	300269	InterPro		F
+UniProtKB	Q3Z4B6	fldA	enables	GO:0010181	FMN binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001226|InterPro:IPR008254|InterPro:IPR010086	300269	InterPro		F
+UniProtKB	Q3Z4B6	fldA	enables	GO:0009055	electron transfer activity	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000101271	300269	UniProt		F
+UniProtKB	Q3Z4B6	fldA	enables	GO:0010181	FMN binding	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000101271	300269	UniProt		F
+UniProtKB	Q3Z4B6	fldA	involved_in	GO:0022900	electron transport chain	ECO:0000366	IEA	GO_REF:0000108	GO:0009055	300269	GOC		P
+UniProtKB	Q3Z4B6	fldA	involved_in	GO:0022900	electron transport chain	ECO:0000366	IEA	GO_REF:0000108	GO:0009055	300269	GOC		P
+UniProtKB	Q3Z4D5	lnt	involved_in	GO:0006807	nitrogen compound metabolic process	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR003010	300269	InterPro		P
+UniProtKB	Q3Z4D5	lnt	enables	GO:0016410	N-acyltransferase activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR004563	300269	InterPro		F
+UniProtKB	Q3Z4D5	lnt	involved_in	GO:0042158	lipoprotein biosynthetic process	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR004563	300269	InterPro		P
+UniProtKB	Q3Z4D5	lnt	located_in	GO:0016021	integral component of membrane	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR004563	300269	InterPro		C
+UniProtKB	Q3Z4D5	lnt	enables	GO:0016740	transferase activity	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0808	300269	UniProt		F
+UniProtKB	Q3Z4D5	lnt	enables	GO:0016746	transferase activity, transferring acyl groups	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0012	300269	UniProt		F
+UniProtKB	Q3Z4D5	lnt	located_in	GO:0005886	plasma membrane	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0997	300269	UniProt		C
+UniProtKB	Q3Z4D5	lnt	located_in	GO:0005886	plasma membrane	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-1003	300269	UniProt		C
+UniProtKB	Q3Z4D5	lnt	located_in	GO:0016020	membrane	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0472	300269	UniProt		C
+UniProtKB	Q3Z4D5	lnt	located_in	GO:0016021	integral component of membrane	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0812	300269	UniProt		C
+UniProtKB	Q3Z4D5	lnt	located_in	GO:0005886	plasma membrane	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0037	300269	UniProt		C
+UniProtKB	Q3Z4D5	lnt	enables	GO:0016410	N-acyltransferase activity	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000067738	300269	UniProt		F
+UniProtKB	Q3Z4D5	lnt	located_in	GO:0005886	plasma membrane	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000067738	300269	UniProt		C
+UniProtKB	Q3Z4D5	lnt	involved_in	GO:0042158	lipoprotein biosynthetic process	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000067738	300269	UniProt		P
+UniProtKB	Q3Z4H7	citE	part_of	GO:0009346	ATP-independent citrate lyase complex	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR006475	300269	InterPro		C
+UniProtKB	Q3Z4H7	citE	located_in	GO:0005737	cytoplasm	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR006475	300269	InterPro		C
+UniProtKB	Q3Z4H7	citE	enables	GO:0008816	citryl-CoA lyase activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR006475	300269	InterPro		F
+UniProtKB	Q3Z4H7	citE	involved_in	GO:0006084	acetyl-CoA metabolic process	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR006475	300269	InterPro		P
+UniProtKB	Q3Z4H7	citE	enables	GO:0003824	catalytic activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR005000|InterPro:IPR015813	300269	InterPro		F
+UniProtKB	Q3Z4H7	citE	located_in	GO:0005737	cytoplasm	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0963	300269	UniProt		C
+UniProtKB	Q3Z4H7	citE	enables	GO:0016829	lyase activity	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0456	300269	UniProt		F
+UniProtKB	Q3Z4H7	citE	enables	GO:0046872	metal ion binding	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0479	300269	UniProt		F
+UniProtKB	Q3Z4H7	citE	enables	GO:0008815	citrate (pro-3S)-lyase activity	ECO:0000501	IEA	GO_REF:0000003	EC:4.1.3.6	300269	UniProt		F
+UniProtKB	Q3Z4H7	citE	enables	GO:0008816	citryl-CoA lyase activity	ECO:0000501	IEA	GO_REF:0000003	EC:4.1.3.34	300269	UniProt		F
+UniProtKB	Q3Z4H7	citE	located_in	GO:0005737	cytoplasm	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0086	300269	UniProt		C
+UniProtKB	Q3Z4H7	citE	enables	GO:0008815	citrate (pro-3S)-lyase activity	ECO:0000256	IEA	GO_REF:0000116	RHEA:10760	300269	RHEA		F
+UniProtKB	Q3Z4H7	citE	enables	GO:0008816	citryl-CoA lyase activity	ECO:0000256	IEA	GO_REF:0000116	RHEA:20812	300269	RHEA		F
+UniProtKB	Q3Z4X1	cyoA	enables	GO:0005507	copper ion binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR002429	300269	InterPro		F
+UniProtKB	Q3Z4X1	cyoA	involved_in	GO:0022900	electron transport chain	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR010514|InterPro:IPR011759	300269	InterPro		P
+UniProtKB	Q3Z4X1	cyoA	enables	GO:0016682	oxidoreductase activity, acting on diphenols and related substances as donors, oxygen as acceptor	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR006333	300269	InterPro		F
+UniProtKB	Q3Z4X1	cyoA	enables	GO:0004129	cytochrome-c oxidase activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR002429	300269	InterPro		F
+UniProtKB	Q3Z4X1	cyoA	located_in	GO:0016020	membrane	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR002429|InterPro:IPR006333	300269	InterPro		C
+UniProtKB	Q3Z4X1	cyoA	located_in	GO:0016021	integral component of membrane	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR010514|InterPro:IPR011759	300269	InterPro		C
+UniProtKB	Q3Z4X1	cyoA	enables	GO:0016491	oxidoreductase activity	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0560	300269	UniProt		F
+UniProtKB	Q3Z4X1	cyoA	located_in	GO:0005886	plasma membrane	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-1003	300269	UniProt		C
+UniProtKB	Q3Z4X1	cyoA	located_in	GO:0070469	respirasome	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0679	300269	UniProt		C
+UniProtKB	Q3Z4X1	cyoA	located_in	GO:0016020	membrane	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0472	300269	UniProt		C
+UniProtKB	Q3Z4X1	cyoA	located_in	GO:0016021	integral component of membrane	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0812	300269	UniProt		C
+UniProtKB	Q3Z4X1	cyoA	located_in	GO:0005886	plasma membrane	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0039	300269	UniProt		C
+UniProtKB	Q3Z4X1	cyoA	located_in	GO:0016020	membrane	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0162	300269	UniProt		C
+UniProtKB	Q3Z4X1	cyoA	enables	GO:0004129	cytochrome-c oxidase activity	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000285107	300269	UniProt		F
+UniProtKB	Q3Z4X1	cyoA	located_in	GO:0070469	respirasome	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000285107	300269	UniProt		C
+UniProtKB	Q3Z4X1	cyoA	involved_in	GO:1902600	proton transmembrane transport	ECO:0000366	IEA	GO_REF:0000108	GO:0004129	300269	GOC		P
+UniProtKB	Q3Z4X1	cyoA	involved_in	GO:1902600	proton transmembrane transport	ECO:0000366	IEA	GO_REF:0000108	GO:0004129	300269	GOC		P
+UniProtKB	Q3Z4X2	cyoB	enables	GO:0020037	heme binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR000883	300269	InterPro		F
+UniProtKB	Q3Z4X2	cyoB	enables	GO:0016682	oxidoreductase activity, acting on diphenols and related substances as donors, oxygen as acceptor	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR014207	300269	InterPro		F
+UniProtKB	Q3Z4X2	cyoB	enables	GO:0004129	cytochrome-c oxidase activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR000883|InterPro:IPR023615|InterPro:IPR023616	300269	InterPro		F
+UniProtKB	Q3Z4X2	cyoB	involved_in	GO:0009060	aerobic respiration	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR000883	300269	InterPro		P
+UniProtKB	Q3Z4X2	cyoB	located_in	GO:0016021	integral component of membrane	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR000883	300269	InterPro		C
+UniProtKB	Q3Z4X2	cyoB	located_in	GO:0070469	respirasome	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0679	300269	UniProt		C
+UniProtKB	Q3Z4X2	cyoB	located_in	GO:0016020	membrane	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0472	300269	UniProt		C
+UniProtKB	Q3Z4X2	cyoB	located_in	GO:0016021	integral component of membrane	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0812	300269	UniProt		C
+UniProtKB	Q3Z4X2	cyoB	enables	GO:0009486	cytochrome bo3 ubiquinol oxidase activity	ECO:0000501	IEA	GO_REF:0000003	EC:7.1.1.3	300269	UniProt		F
+UniProtKB	Q3Z4X2	cyoB	located_in	GO:0016020	membrane	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0162	300269	UniProt		C
+UniProtKB	Q3Z4X2	cyoB	enables	GO:0009486	cytochrome bo3 ubiquinol oxidase activity	ECO:0000256	IEA	GO_REF:0000116	RHEA:30251	300269	RHEA		F
+UniProtKB	Q3Z4X2	cyoB	involved_in	GO:0022900	electron transport chain	ECO:0000366	IEA	GO_REF:0000108	GO:0004129	300269	GOC		P
+UniProtKB	Q3Z4X2	cyoB	involved_in	GO:0022900	electron transport chain	ECO:0000366	IEA	GO_REF:0000108	GO:0009486	300269	GOC		P
+UniProtKB	Q3Z4X2	cyoB	involved_in	GO:0022900	electron transport chain	ECO:0000366	IEA	GO_REF:0000108	GO:0009486	300269	GOC		P
+UniProtKB	Q3Z4X2	cyoB	involved_in	GO:1902600	proton transmembrane transport	ECO:0000366	IEA	GO_REF:0000108	GO:0004129	300269	GOC		P
+UniProtKB	Q3Z4X3	cyoC	involved_in	GO:0022904	respiratory electron transport chain	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR013833	300269	InterPro		P
+UniProtKB	Q3Z4X3	cyoC	involved_in	GO:0019646	aerobic electron transport chain	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR014206|InterPro:IPR024791	300269	InterPro		P
+UniProtKB	Q3Z4X3	cyoC	enables	GO:0004129	cytochrome-c oxidase activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR013833	300269	InterPro		F
+UniProtKB	Q3Z4X3	cyoC	located_in	GO:0016020	membrane	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR000298|InterPro:IPR013833|InterPro:IPR024791|InterPro:IPR035973	300269	InterPro		C
+UniProtKB	Q3Z4X3	cyoC	enables	GO:0015002	obsolete heme-copper terminal oxidase activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR000298|InterPro:IPR024791|InterPro:IPR035973	300269	InterPro		F
+UniProtKB	Q3Z4X3	cyoC	located_in	GO:0005886	plasma membrane	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-1003	300269	UniProt		C
+UniProtKB	Q3Z4X3	cyoC	located_in	GO:0016020	membrane	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0472	300269	UniProt		C
+UniProtKB	Q3Z4X3	cyoC	located_in	GO:0016021	integral component of membrane	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0812	300269	UniProt		C
+UniProtKB	Q3Z4X3	cyoC	located_in	GO:0005886	plasma membrane	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0039	300269	UniProt		C
+UniProtKB	Q3Z4X3	cyoC	located_in	GO:0016020	membrane	ECO:0000323	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0162	300269	UniProt		C
+UniProtKB	Q3Z4X3	cyoC	involved_in	GO:1902600	proton transmembrane transport	ECO:0000366	IEA	GO_REF:0000108	GO:0004129	300269	GOC		P
+UniProtKB	Q3Z4Y6	thiI	involved_in	GO:0034227	tRNA thio-modification	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR003720	300269	InterPro		P
+UniProtKB	Q3Z4Y6	thiI	enables	GO:0016783	sulfurtransferase activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR003720	300269	InterPro		F
+UniProtKB	Q3Z4Y6	thiI	enables	GO:0004810	tRNA adenylyltransferase activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR020536	300269	InterPro		F
+UniProtKB	Q3Z4Y6	thiI	enables	GO:0003723	RNA binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR004114	300269	InterPro		F
+UniProtKB	Q3Z4Y6	thiI	involved_in	GO:0052837	thiazole biosynthetic process	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR026340	300269	InterPro		P
+UniProtKB	Q3Z4Y6	thiI	enables	GO:0005524	ATP binding	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0067	300269	UniProt		F
+UniProtKB	Q3Z4Y6	thiI	involved_in	GO:0009228	thiamine biosynthetic process	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0784	300269	UniProt		P
+UniProtKB	Q3Z4Y6	thiI	located_in	GO:0005737	cytoplasm	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0963	300269	UniProt		C
+UniProtKB	Q3Z4Y6	thiI	enables	GO:0016740	transferase activity	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0808	300269	UniProt		F
+UniProtKB	Q3Z4Y6	thiI	enables	GO:0003723	RNA binding	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0694	300269	UniProt		F
+UniProtKB	Q3Z4Y6	thiI	enables	GO:0000049	tRNA binding	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0820	300269	UniProt		F
+UniProtKB	Q3Z4Y6	thiI	enables	GO:0000166	nucleotide binding	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0547	300269	UniProt		F
+UniProtKB	Q3Z4Y6	thiI	involved_in	GO:0034227	tRNA thio-modification	ECO:0000501	IEA	GO_REF:0000003	EC:2.8.1.4	300269	UniProt		P
+UniProtKB	Q3Z4Y6	thiI	located_in	GO:0005737	cytoplasm	ECO:0000322	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0086	300269	UniProt		C
+UniProtKB	Q3Z4Y6	thiI	enables	GO:0005524	ATP binding	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000075655	300269	UniProt		F
+UniProtKB	Q3Z4Y6	thiI	involved_in	GO:0009228	thiamine biosynthetic process	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000075655	300269	UniProt		P
+UniProtKB	Q3Z4Y6	thiI	involved_in	GO:0034227	tRNA thio-modification	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000075655	300269	UniProt		P
+UniProtKB	Q3Z4Y6	thiI	located_in	GO:0005737	cytoplasm	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000075655	300269	UniProt		C
+UniProtKB	Q3Z4Y6	thiI	enables	GO:0016783	sulfurtransferase activity	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000075655	300269	UniProt		F
+UniProtKB	Q3Z4Y6	thiI	enables	GO:0000049	tRNA binding	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000075655	300269	UniProt		F
+UniProtKB	Q3Z4Y6	thiI	involved_in	GO:0009229	thiamine diphosphate biosynthetic process	ECO:0000322	IEA	GO_REF:0000041	UniPathway:UPA00060	300269	UniProt		P
+UniProtKB	Q3Z567	ykgF	involved_in	GO:0019516	lactate oxidation	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR004452	300269	InterPro		P
+UniProtKB	Q3Z567	ykgF	enables	GO:0051536	iron-sulfur cluster binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR009051	300269	InterPro		F
+UniProtKB	Q3Z567	ykgF	enables	GO:0046872	metal ion binding	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0479	300269	UniProt		F
+UniProtKB	Q3Z567	ykgF	enables	GO:0051536	iron-sulfur cluster binding	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0411	300269	UniProt		F
+UniProtKB	Q3Z567	ykgF	enables	GO:0051539	4 iron, 4 sulfur cluster binding	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0004	300269	UniProt		F
+UniProtKB	Q3Z5H3	accA	part_of	GO:0009317	acetyl-CoA carboxylase complex	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001095	300269	InterPro		C
+UniProtKB	Q3Z5H3	accA	enables	GO:0016874	ligase activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR011763	300269	InterPro		F
+UniProtKB	Q3Z5H3	accA	enables	GO:0003989	acetyl-CoA carboxylase activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001095	300269	InterPro		F
+UniProtKB	Q3Z5H3	accA	involved_in	GO:0006633	fatty acid biosynthetic process	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001095	300269	InterPro		P
+UniProtKB	Q3Z5H3	accA	enables	GO:0005524	ATP binding	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0067	300269	UniProt		F
+UniProtKB	Q3Z5H3	accA	located_in	GO:0005737	cytoplasm	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0963	300269	UniProt		C
+UniProtKB	Q3Z5H3	accA	enables	GO:0016740	transferase activity	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0808	300269	UniProt		F
+UniProtKB	Q3Z5H3	accA	enables	GO:0000166	nucleotide binding	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0547	300269	UniProt		F
+UniProtKB	Q3Z5H3	accA	involved_in	GO:0006633	fatty acid biosynthetic process	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0275	300269	UniProt		P
+UniProtKB	Q3Z5H3	accA	involved_in	GO:0006631	fatty acid metabolic process	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0276	300269	UniProt		P
+UniProtKB	Q3Z5H3	accA	involved_in	GO:0006629	lipid metabolic process	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0443	300269	UniProt		P
+UniProtKB	Q3Z5H3	accA	located_in	GO:0005737	cytoplasm	ECO:0000322	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0086	300269	UniProt		C
+UniProtKB	Q3Z5H3	accA	located_in	GO:0005737	cytoplasm	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000031345	300269	UniProt		C
+UniProtKB	Q3Z5H3	accA	enables	GO:0016743	carboxyl- or carbamoyltransferase activity	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000031345	300269	UniProt		F
+UniProtKB	Q3Z5H3	accA	involved_in	GO:0006633	fatty acid biosynthetic process	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000031345	300269	UniProt		P
+UniProtKB	Q3Z5H3	accA	involved_in	GO:2001295	malonyl-CoA biosynthetic process	ECO:0000322	IEA	GO_REF:0000041	UniPathway:UPA00655	300269	UniProt		P
+UniProtKB	Q3Z5P6	aceE	enables	GO:0016491	oxidoreductase activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR004660	300269	InterPro		F
+UniProtKB	Q3Z5P6	aceE	enables	GO:0003824	catalytic activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR009014	300269	InterPro		F
+UniProtKB	Q3Z5P6	aceE	enables	GO:0016491	oxidoreductase activity	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0560	300269	UniProt		F
+UniProtKB	Q3Z5P6	aceE	enables	GO:0046872	metal ion binding	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0479	300269	UniProt		F
+UniProtKB	Q3Z5P6	aceE	enables	GO:0004739	pyruvate dehydrogenase (acetyl-transferring) activity	ECO:0000501	IEA	GO_REF:0000003	EC:1.2.4.1	300269	UniProt		F
+UniProtKB	Q3Z5P6	aceE	enables	GO:0004739	pyruvate dehydrogenase (acetyl-transferring) activity	ECO:0000256	IEA	GO_REF:0000116	RHEA:19189	300269	RHEA		F
+UniProtKB	Q3Z5T2	ilvH	involved_in	GO:0009082	branched-chain amino acid biosynthetic process	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR004789	300269	InterPro		P
+UniProtKB	Q3Z5T2	ilvH	enables	GO:1990610	acetolactate synthase regulator activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR004789	300269	InterPro		F
+UniProtKB	Q3Z5T2	ilvH	involved_in	GO:0009082	branched-chain amino acid biosynthetic process	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0100	300269	UniProt		P
+UniProtKB	Q3Z5T2	ilvH	involved_in	GO:0008652	cellular amino acid biosynthetic process	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0028	300269	UniProt		P
+UniProtKB	Q3Z5T2	ilvH	enables	GO:0003984	acetolactate synthase activity	ECO:0000501	IEA	GO_REF:0000003	EC:2.2.1.6	300269	UniProt		F
+UniProtKB	Q3Z5T2	ilvH	enables	GO:0003984	acetolactate synthase activity	ECO:0000256	IEA	GO_REF:0000116	RHEA:25249	300269	RHEA		F
+UniProtKB	Q3Z5T2	ilvH	involved_in	GO:0050790	regulation of catalytic activity	ECO:0000366	IEA	GO_REF:0000108	GO:1990610	300269	GOC		P
+UniProtKB	Q3Z5T2	ilvH	involved_in	GO:0009099	valine biosynthetic process	ECO:0000322	IEA	GO_REF:0000041	UniPathway:UPA00049	300269	UniProt		P
+UniProtKB	Q3Z5T2	ilvH	involved_in	GO:0009097	isoleucine biosynthetic process	ECO:0000322	IEA	GO_REF:0000041	UniPathway:UPA00047	300269	UniProt		P
+UniProtKB	Q3Z5V7	pdxA	enables	GO:0050570	4-hydroxythreonine-4-phosphate dehydrogenase activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR037510	300269	InterPro		F
+UniProtKB	Q3Z5V7	pdxA	enables	GO:0051287	NAD binding	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR005255	300269	InterPro		F
+UniProtKB	Q3Z5V7	pdxA	involved_in	GO:0042823	pyridoxal phosphate biosynthetic process	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR037510	300269	InterPro		P
+UniProtKB	Q3Z5V7	pdxA	located_in	GO:0005737	cytoplasm	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0963	300269	UniProt		C
+UniProtKB	Q3Z5V7	pdxA	enables	GO:0016491	oxidoreductase activity	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0560	300269	UniProt		F
+UniProtKB	Q3Z5V7	pdxA	enables	GO:0046872	metal ion binding	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0479	300269	UniProt		F
+UniProtKB	Q3Z5V7	pdxA	involved_in	GO:0008615	pyridoxine biosynthetic process	ECO:0000322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0664	300269	UniProt		P
+UniProtKB	Q3Z5V7	pdxA	enables	GO:0050570	4-hydroxythreonine-4-phosphate dehydrogenase activity	ECO:0000501	IEA	GO_REF:0000003	EC:1.1.1.262	300269	UniProt		F
+UniProtKB	Q3Z5V7	pdxA	located_in	GO:0005737	cytoplasm	ECO:0000322	IEA	GO_REF:0000044	UniProtKB-SubCell:SL-0086	300269	UniProt		C
+UniProtKB	Q3Z5V7	pdxA	enables	GO:0050570	4-hydroxythreonine-4-phosphate dehydrogenase activity	ECO:0000256	IEA	GO_REF:0000116	RHEA:32275	300269	RHEA		F
+UniProtKB	Q3Z5V7	pdxA	located_in	GO:0005737	cytoplasm	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000094090	300269	UniProt		C
+UniProtKB	Q3Z5V7	pdxA	enables	GO:0008270	zinc ion binding	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000094090	300269	UniProt		F
+UniProtKB	Q3Z5V7	pdxA	involved_in	GO:0008615	pyridoxine biosynthetic process	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000094090	300269	UniProt		P
+UniProtKB	Q3Z5V7	pdxA	enables	GO:0000287	magnesium ion binding	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000094090	300269	UniProt		F
+UniProtKB	Q3Z5V7	pdxA	enables	GO:0046872	metal ion binding	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000094090	300269	UniProt		F
+UniProtKB	Q3Z5V7	pdxA	enables	GO:0050570	4-hydroxythreonine-4-phosphate dehydrogenase activity	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000094090	300269	UniProt		F
+UniProtKB	Q3Z5V7	pdxA	enables	GO:0050897	cobalt ion binding	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000094090	300269	UniProt		F
+UniProtKB	Q3Z5V7	pdxA	involved_in	GO:0042823	pyridoxal phosphate biosynthetic process	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000094090	300269	UniProt		P
+UniProtKB	Q3Z5X8	carA	enables	GO:0004088	carbamoyl-phosphate synthase (glutamine-hydrolyzing) activity	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR006274	300269	InterPro		F
+UniProtKB	Q3Z5X8	carA	involved_in	GO:0006541	glutamine metabolic process	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR006274	300269	InterPro		P
+UniProtKB	Q3Z5X8	carA	involved_in	GO:0006207	'de novo' pyrimidine nucleobase biosynthetic process	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR006274	300269	InterPro		P
+UniProtKB	Q3Z5X8	carA	enables	GO:0005524	ATP binding	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0067	300269	UniProt		F
+UniProtKB	Q3Z5X8	carA	enables	GO:0016874	ligase activity	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0436	300269	UniProt		F
+UniProtKB	Q3Z5X8	carA	enables	GO:0000166	nucleotide binding	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0547	300269	UniProt		F
+UniProtKB	Q3Z5X8	carA	involved_in	GO:0008652	cellular amino acid biosynthetic process	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0028	300269	UniProt		P
+UniProtKB	Q3Z5X8	carA	involved_in	GO:0006541	glutamine metabolic process	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0315	300269	UniProt		P
+UniProtKB	Q3Z5X8	carA	involved_in	GO:0006526	arginine biosynthetic process	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0055	300269	UniProt		P
+UniProtKB	Q3Z5X8	carA	involved_in	GO:0006221	pyrimidine nucleotide biosynthetic process	ECO:0000323	IEA	GO_REF:0000043	UniProtKB-KW:KW-0665	300269	UniProt		P
+UniProtKB	Q3Z5X8	carA	enables	GO:0004088	carbamoyl-phosphate synthase (glutamine-hydrolyzing) activity	ECO:0000501	IEA	GO_REF:0000003	EC:6.3.5.5	300269	UniProt		F
+UniProtKB	Q3Z5X8	carA	enables	GO:0004088	carbamoyl-phosphate synthase (glutamine-hydrolyzing) activity	ECO:0000256	IEA	GO_REF:0000116	RHEA:18633	300269	RHEA		F
+UniProtKB	Q3Z5X8	carA	enables	GO:0005524	ATP binding	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000101158	300269	UniProt		F
+UniProtKB	Q3Z5X8	carA	enables	GO:0004088	carbamoyl-phosphate synthase (glutamine-hydrolyzing) activity	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000101158	300269	UniProt		F
+UniProtKB	Q3Z5X8	carA	involved_in	GO:0006541	glutamine metabolic process	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000415630	300269	UniProt		P
+UniProtKB	Q3Z5X8	carA	involved_in	GO:0006526	arginine biosynthetic process	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000101158	300269	UniProt		P
+UniProtKB	Q3Z5X8	carA	involved_in	GO:0006221	pyrimidine nucleotide biosynthetic process	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000101158	300269	UniProt		P
+UniProtKB	Q3Z5X8	carA	involved_in	GO:0044205	'de novo' UMP biosynthetic process	ECO:0000322	IEA	GO_REF:0000041	UniPathway:UPA00070	300269	UniProt		P
+UniProtKB	Q3Z5X8	carA	involved_in	GO:0006526	arginine biosynthetic process	ECO:0000322	IEA	GO_REF:0000041	UniPathway:UPA00068	300269	UniProt		P
